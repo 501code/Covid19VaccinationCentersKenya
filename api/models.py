@@ -1,7 +1,7 @@
 from django.db import models
 from django_extensions.db.models import TimeStampedModel
 from djchoices import DjangoChoices, ChoiceItem
-from location_field.forms.plain import PlainLocationField
+from location_field.models.plain import PlainLocationField
 
 
 class County(TimeStampedModel):
@@ -24,8 +24,8 @@ class VaccineCenter(TimeStampedModel):
         NGO = ChoiceItem("ngo", "NGO")
         ARMED_FORCES = ChoiceItem("armed_forces", "Armed Forces")
     name = models.CharField(max_length=555, blank=False, null=False)
-    sub_county = models.ForeignKey(SubCounty, blank=False, null=False, on_delete=models.CASCADE)
-    mlf = models.CharField(max_length=255, blank=False, null=False)
+    sub_county = models.ForeignKey(SubCounty, blank=True, null=True, on_delete=models.CASCADE)
+    mfl = models.CharField(max_length=255, blank=False, null=False)
     ownership = models.CharField(choices=Ownerships.choices, default=Ownerships.PUBLIC,
                                  max_length=50, blank=False, null=False)
-    location = PlainLocationField(based_fields=['city'], zoom=7)
+    location = PlainLocationField(based_fields=['city'], zoom=7, blank=True, null=True)
