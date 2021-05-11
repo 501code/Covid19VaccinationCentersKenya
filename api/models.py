@@ -1,5 +1,31 @@
 from django.db import models
+from django_extensions.db.models import TimeStampedModel
+from djchoices import DjangoChoices, ChoiceItem
+from location_field.forms.plain import PlainLocationField
 
 
-class VaccineCenter(models.Model):
-    pass
+class County(TimeStampedModel):
+    name = models.CharField(max_length=555, blank=False, null=False)
+    location = PlainLocationField(based_fields=['city'], zoom=7)
+
+
+class SubCounty(TimeStampedModel):
+    name = models.CharField(max_length=555, blank=False, null=False)
+    county = models.ForeignKey(County, blank=False, null=False, on_delete=models.CASCADE)
+    location = PlainLocationField(based_fields=['city'], zoom=7)
+
+
+class VaccineCenter(TimeStampedModel):
+    class Ownerships(DjangoChoices):
+        PRIVATE = ChoiceItem("private", "Private")
+        PUBLIC = ChoiceItem("public", "Public")
+        MILLITARY = ChoiceItem("millitary", "Millitary")
+        FBO = ChoiceItem("fbo", "FBO")
+        NGO = ChoiceItem("ngo", "NGO")
+        ARMED_FORCES = ChoiceItem("armed_forces", "Armed Forces")
+    name = models.CharField(max_length=555, blank=False, null=False)
+    sub_county = models.ForeignKey(SubCounty, blank=False, null=False, on_delete=models.CASCADE)
+    mlf = models.CharField(max_length=255, blank=False, null=False)
+    ownership = models.CharField(choices=Ownerships.choices, default=Ownerships.PUBLIC,
+                                 max_length=50, blank=False, null=False)
+    location = PlainLocationField(based_fields=['city'], zoom=7)

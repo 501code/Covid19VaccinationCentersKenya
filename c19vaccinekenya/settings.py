@@ -37,6 +37,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'api',
+    'location_field.apps.DefaultConfig',
 ]
 
 MIDDLEWARE = [
@@ -118,3 +120,12 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/2.2/howto/static-files/
 
 STATIC_URL = '/static/'
+
+# Location field
+LOCATION_FIELD = {
+    'search.provider': 'google',
+    'provider.google.api': '//maps.google.com/maps/api/js?sensor=false',
+    'provider.google.api_key': 'AIzaSyCGYcZghJpvGiQeTGleIJHK4YTIv5duSC0',
+    'provider.google.api_libraries': '',
+    'provider.google.map.type': 'ROADMAP',
+}
