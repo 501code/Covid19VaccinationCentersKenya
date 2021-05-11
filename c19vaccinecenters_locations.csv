@@ -1,0 +1,625 @@
+County;SubCounty;Name;MLF;Ownership;Location
+Mombasa;Mvita;Coast General Teaching and Referal Hospital;11289;Public;-4.0488535,39.6741959
+Mombasa;Changamwe;Port Reitz Hospital;11740;Public;-4.039153,39.600769
+Mombasa;Mvita;Tudor Sub County Hospital;11861;Public;-4.040651,39.66429300000001
+Mombasa;Likoni;Likoni Sub County Hospital;11522;Public;-4.0850218,39.6554026
+Mombasa;Mvita;Aga Khan Hospital Mombasa;11203;Private;-4.0700508,39.6704822
+Mombasa;Mvita;Mombasa Hospital;11643;Private;-4.06482,39.680437
+Mombasa;Mvita;Pandya Memorial Hospital;11734;Private;-4.068352300000001,39.671231
+Mombasa;Kisauni;Jocham Hospital;11434;Private;-4.037309,39.681526
+Mombasa;Nyali;Premiere Hospital;24022;Private;-4.0350898,39.70848609999999
+Kwale;Msambweni;Msambweni CRH;11655;Public;-4.4806298,39.4803593
+Kwale;Matuga;Kwale Sub County Hospital;11507;Public;-4.175125599999999,39.4552719
+Kwale;Kinango;Kinango Sub County Hospital;11480;Public;-4.1392245,39.3127726
+Kwale;Lungalunga;Lungalunga Sub County Hospital;11526;Public;-4.5540421,39.1199759
+Kwale;Kinango;Samburu Sub County Hospital;11768;Public;-4.1737,39.4521
+Kwale;Msambweni;Diani Beach Hospital;25357;Private;-4.279266499999999,39.59046620000001
+Kwale;Msambweni;Kinondo Hospital;16547;Private;-4.3542993,39.5353254
+Kilifi;Kilifi north;Kilifi county hospital;11474;Public;-3.6317483,39.8565764
+Kilifi;Malindi;Malindi sub county hospital;11555;Public;-3.2262301,40.1249463
+Kilifi;Kaloleni;Mariakani sub county hospital;11566;Public;-3.21,40.1
+Kilifi;Ganze;Bamba sub county hospital;11237;Public;-3.21,40.1
+Kilifi;Kaloleni;Jibana sub county hospital;11432;Public;-3.21,40.1
+Kilifi;Malindi;Tawfiq hospital;11843;Private;-3.22093,40.112174
+Kilifi;Magarini;Meridian hospital;11381;Private;-3.21,40.1
+Kilifi;Malindi;Star hospital;11829;Private;-3.214767,40.118798
+Kilifi;Magarini;Afya hospital;21925;Private;-3.1971601,40.1057075
+Kilifi;Rabai;Josmori hospital;25266;Private;-3.21,40.1
+Kilifi;Kaloleni;Mariakani military hopsital;11225;Military;-3.21,40.1
+Kilifi;Kilifi south;Swiss hospital;19023;Private;-3.21,40.1
+Kilifi;Kilifi north;Watamu hospital;11897;Private;-3.362071,40.001645
+Tana River;Galole;Hola County Referral hospital;11411;Public;-1.4979956,40.02963099999999
+Tana River;Tana Delta;Ngao Sub county hospital;11711;Public;-1.5,40.03
+Lamu;Tana north;Bura Sub County hospita;11264;Public;-2.2686,40.9003
+Lamu;Lamu West;Lamu Refferal Hospital;11512;Public;-2.2786997,40.9066457
+Lamu;Lamu West;Faza Sub County Hospital;11373;Public;-2.0549917,41.1129312
+Lamu;Lamu East;Mpeketoni Sub County Hospital;11649;Public;-2.391394,40.6971757
+Taita Taveta;Voi;Moi County Refferal Hospital;11641;Public;-3.3893256,38.5595514
+Taita Taveta;Mwatate;Mwatate Sub County Hospital;11695;Public;-3.5074089,38.3685488
+Taita Taveta;Wundanyi;Wesu Sub County Hospital;11906;Public;-3.4090186,38.3420757
+Taita Taveta;Taveta;Taveta Sub County Hospital;11840;Public;-3.3696,38.57
+Taita Taveta;Voi;St Joseph Shelter of Hope;11817;FBO;-3.3906052,38.5389064
+Taita Taveta;Voi;River Jordan Medical Centre;22279;Private;-3.3882645,38.5617639
+Garissa;Dadaab;Dadaab Sub-County Hospital;13316;Public;-0.4569,39.6583
+Garissa;Balambala;Balambala Sub-District Hospital;13298;Public;-0.4569,39.6583
+Garissa;Ijara;Ijara District Hospital - Masalani;13406;Public;-0.4569,39.6583
+Garissa;Lagdera;Modogashe Sub-County Hospital;13411;Public;-0.4569,39.6583
+Garissa;Fafi;Bura District Hospital;13339;Public;-0.4569,39.6583
+Garissa;Hulugho;Hulugho Sub County Hospital;13365;Public;-0.4569,39.6583
+Garissa;Garissa;Iftin Sub-District Hospital;13369;Public;-0.4670347,39.6431066
+Garissa;Garissa;Garissa County Referral Hospital;13346;Public;-0.4488549,39.6526044
+Garissa;Dadaab- Ifo Camp;Ifo Hospital;13368;NGO;-0.4532293,39.6460988
+Garissa;Dadaab- Dagahaley Camp;MSF Dagahaley Main Hospital;13318;NGO;-0.4569,39.6583
+Garissa;Fafi- Hagadera Camp;Hagadera Hospital;13359;NGO;-0.4278,39.644
+Garissa;Garissa;Medina Hospital;19037;Private;-0.4569,39.6583
+Wajir;Eldas;Eldas Sub County Hospital;13333;Public;1.75,40.0667
+Wajir;Tarbaj;Tarbaj Sub County Hospital;13446;Public;1.75,40.0667
+Wajir;Wajir East;Wajir County Referral Hoaspital;13452;Public;1.7477879,40.0627493
+Wajir;Wajir North;Bute Sub County Hospital;13314;Public;1.75,40.0667
+Wajir;Wajir South;Habaswein Sub County Hospital;13357;Public;1.75,40.0667
+Wajir;Wajir West;Griftu Sub County Hospital;13352;Public;1.9966396,39.7551288
+Mandera;Mandera East;Mnadera County Referral Hospital;13402;Public;3.9409883,41.86178460000001
+Mandera;Mandera North;Mandera North Subcounty Hospital;13423;Public;3.935638899999999,41.8551162
+Mandera;Mandera West;Mandera West Sub county Hospital;13445;Public;3.935638899999999,41.8551162
+Mandera;Lafey;Lafey sub county Hospital;13392;Public;3.9167,41.8333
+Mandera;Mandera South;Mandera Central Sub County Hospital;13335;Public;3.935638899999999,41.8551162
+Mandera;Banissa;Banissa Sub county Hospital;16811;Public;3.9167,41.8333
+Mandera;Kotulo;Kutulo Sub county Hospital;13388;Public;3.9167,41.8333
+Mandera;Laisamis;Laisamis Sub county Referral Hospital(Marsabit South);18856;Public;3.9167,41.8333
+Marsabit;Moyale;Moyale Sub county Referral Hospital;12544;Public;2.3333,37.9833
+Marsabit;Saku;Marsabit County Referral Hospital;12472;Public;2.3316496,37.9985728
+Marsabit;North Horr;Kalacha Sub County Referral Hospital (Chalbi);12142;Public;2.3333,37.9833
+Marsabit;Laisamis;Catholic Hospital Laisamis;16215;FBO;2.3333,37.9833
+Marsabit;Saku;Ismc Hospital;12066;Private;2.3282746,37.9877173
+Marsabit;Moyale;Sololo Mission Hospital;12739;FBO;2.3333,37.9833
+Isiolo;Isiolo;Isiolo County Referral Hospital;12094;Public;0.3549956,37.5864313
+Isiolo;Garbatulla;Garbatulla Sub County Hospital;12029;Public;0.35,37.5833
+Isiolo;Merti;Merti Sub County Hospital;12514;Public;0.35,37.5833
+Meru;Imenti South;Mikumbune Sub-District Hospital;12526;Public;-0.0772074,37.6216051
+Meru;Tigania East;Muthara Sub-District Hospital;12591;Public;0.2187246,37.7786152
+Meru;Imenti Central;Cottolengo Mission Hospital;11977;FBO;-0.0029857,37.7662232
+Meru;Igembe South;Nyambene District Hospital;12684;Public;0.2338033,37.9453764
+Meru;Tigania East;Mikinduri Sub-District Hospial;12525;Public;0.1199151,37.8379645
+Meru;Imenti South;Consolata Mission Hospital (Nkubu);11976;FBO;-0.0699086,37.66674
+Meru;Imenti Central;Githongo District Hospital;12041;Public;0.1111472,37.5214724
+Meru;Imenti North;Giaki Sub-District Hospital;12036;Public;0.0303836,37.7647894
+Meru;Igembe Central;Kangeta Heaith Centre;12174;Public;0.2844642,37.8842074
+Meru;Imenti South;Kanyakine District Hospital;12181;Public;-0.128715,37.6756271
+Meru;Buuri;St Theresa Hospital (Kiirua);12303;FBO;0.1262493,37.567455
+Meru;Imenti South;Kinoro Sub-District Hospital;12325;Public;0.0303836,37.7647894
+Meru;Tigania West;Mbeu Sub-District Hospital;12500;Public;0.0589429,37.8166178
+Meru;Igembe South;Maua Methodist Hospital;12492;FBO;0.2305413,37.9420614
+Meru;Igembe North;Mutuati Sub-County Hospital;12605;Public;0.3829683,37.98085349999999
+Meru;Imenti South;St Ann Hospital;12743;FBO;-0.1932608,37.6667141
+Meru;Buuri;Timau Sub-County Hospital;12802;Public;0.0854987,37.2383506
+Meru;Tigania East;St John of God Hospital Tigania;12799;FBO;0.1989982,37.79148
+Meru;Tigania West;Miathene District Hospital;16234;Public;0.1509,37.7899
+Tharaka Nithi;Chuka;Chuka county referral hospital;11973;public;-0.3295381,37.6557389
+Tharaka Nithi;Mwimbi;PCEA Chogoria hospital;12445;FBO;-0.23052,37.6281102
+Tharaka Nithi;Mwimbi;Magutuni sub-county hospital;11970;Public;-0.2250375,37.7363132
+Tharaka Nithi;Tharaka south;Tharaka subcounty hospital;12795;public;-0.1582787,37.9752247
+Tharaka Nithi;Igambang''ombe';Komarock Mordern hospital;26971;Private;-0.19889223914615378, 37.897560619756106
+Tharaka Nithi;Tharaka south;Kibung''a hospital';23887;public;-0.19889223914615378, 37.897560619756106
+Tharaka Nithi;Tharaka North;Gatunga hospital;18080;Public;-0.10104,38.0048483
+Tharaka Nithi;Tharaka south;st Orsola Hospital;12769;FBO;-0.3163484,37.900169
+Embu;Manyatta;Embu level 5 hospital;12004;Public;-0.5228626,37.453178
+Embu;Runyejes;Runyejes level 4 hospital;12719;Public;-0.4249974,37.5724411
+Embu;Mbeere north;Mbeere level 4 hospital;16467;Public;-0.5766077,37.6427008
+Embu;;;;;-0.528818,37.45787099999999
+Embu;Mbeere north;Ishiara level 4 hospital;16464;Public;-0.4556384000000001,37.7884472
+Embu;Manyatta;Embu childrens hospital tenri;12790;Private;-0.5420349,37.4655509
+Embu;Runyejes;Consolata kyeni mission hospital;12413;FBO;-0.4128277,37.5873899
+Kitui;Kitui Central;Neema Hospital Ltd. Annex;24171;Private;-1.3667,38.0167
+Kitui;Kitui Central;The Kitui Family Care Hospital;24092;Private;-1.3750813,37.9952144
+Kitui;Kitui East;Zombe Sub County Hospital;23030;Public;-1.4432151,38.2421409
+Kitui;Kitui Central;Katulani Sub County Hospital (Kitui);16991;Public;-1.3653726,38.0114722
+Kitui;Kitui South;Mutomo Sub County Hospital;12603;Public;-1.3667,38.0167
+Kitui;Kitui East;Mutitu Sub County Hospital;12601;Public;-1.224986,38.188658
+Kitui;Kitui West;Muthale Mission Hospital;12587;FBO;-1.1924044,38.00026769999999
+Kitui;Mwingi West;Migwani Sub County Hospital;12523;Public;-1.0957745,38.0189536
+Kitui;Kitui Central;Kitui County Referral Hospital;12366;Public;-1.3703315,38.0124324
+Kitui;Kitui Central;Jordan Hospital;12110;Private;-1.3673649,38.0031654
+Kitui;Kitui South;Our Lady of Lourdes Mutomo Hospital;12604;FBO;-1.3667,38.0167
+Kitui;Kitui West;Kauwi Sub County Hospital;12255;Public;-1.3721777,38.0104132
+Kitui;Kitui South;Ikanga Sub County Hospital;12077;Public;-1.7256046,38.0763683
+Kitui;Kitui South;Ikutha Sub County Hospital;12080;Public;-1.3667,38.0167
+Kitui;Mwingi North;Kyuso Sub County Hospital;12420;Public;-1.3667,38.0167
+Kitui;Mwingi Central;Mwingi Sub County Hospital;12626;Public;-0.9417803999999999,38.0657816
+Kitui;Kitui Rural;Kanyangi Sub County Hospital;12184;Public;-1.3750813,37.9952144
+Kitui;Kitui Central;Neema Hospital;12641;Private;-1.3675676,38.0045082
+Kitui;Mwingi North;Tseikuru Sub County Hospital;12805;Public;-1.3667,38.0167
+Kitui;Mwingi Central;Nuu Sub County Hospital;12681;Public;-1.0784686,38.3565884
+Machakos;Mwala;Mwala Level 4;12618;Public;-1.3486256,37.4523987
+Machakos;Kathiani;Kathiani Level 4;12230;Public;-1.413564,37.3284726
+Machakos;Kalama;Muuma Andu Level 4;12612;Public;-1.3070333,36.8343336
+Machakos;Mavoko;Athi River Level 4;11936;Public;-1.4522566,36.9842391
+Machakos;Kangundo;Kangundo Level 4;12177;Public;-1.2987046,37.3458906
+Machakos;Yatta;Matuu Level 4;12488;Public;-1.1517166,37.5373274
+Machakos;Masina;Masinga Level 4;12476;Public;-1.5167,37.2667
+Machakos;Matungulu;Nguluni Level 4;12657;Public;-1.2987046,37.3458906
+Machakos;Machakos;Mutuini Level 4;12602;Public;-1.1748105,36.8304102
+Machakos;Makueni;Mutyambua Subcounty Hospital (Level IV);12610;Public;-1.5167,37.2667
+Machakos;Kaiti;Mukuyuni Subcounty Hospital (Level IV);12565;Public;-1.6588315,37.454428
+Machakos;Mbooni;Tawa Subcounty Hospital (Level IV);12787;Public;-1.547912,37.4663946
+Makueni;Makueni;Matiliku Subcounty Hospital (Level IV);12485;Public;-1.9490725,37.5358914
+Makueni;Kibwezi West;Makindu Subcounty Hospital (Level IV);12455;Public;-1.7808,37.6288
+Makueni;Mbooni;Mbooni Subcounty Hospital (Level IV);12508;Public;-1.6588315,37.454428
+Makueni;Mbooni;Kisau Subcounty Hospital (Level IV);12341;Public;-1.6,37.4833333
+Makueni;Kilome;Sultan Hamud Subcounty Hospital (Level IV);12777;Public;-2.0163267,37.378054
+Makueni;Makueni;Makueni County Referral Hospital (Level V);12457;Public;-1.7837458,37.6279148
+Makueni;Kibwezi East;Kibwezi Subcounty Hospital (IV);12291;Public;-1.7808,37.6288
+Makueni;Kibwezi East;Kambu Subcounty Hospital (IV);18596;Public;-1.7808,37.6288
+Makueni;Kibwezi East;Mtito Andei Subcounty Hospital (IV);12547;Public;-1.7808,37.6288
+Makueni;Kaiti;Kilungu Subcounty Hospital (IV);12314;Public;-1.7860226,37.3606521
+Makueni;Kiati;Kikoko Mission Hospital (IV);12306;FBO;-1.8062436,37.3965597
+Makueni;Makueni;Ralpha Hospital;21676;Private;-1.7838863,37.6222867
+Makueni;Makueni;Royal Star Hospital;25386;Private;-1.7841936,37.6247268
+Makueni;Makueni;Ponya Hospital;18140;Private;-2.0786421,37.4626493
+Makueni;Kibwezi West;Kilome Nursing Home;12313;Private;-1.7808,37.6288
+Makueni;Kibwezi West;Mulatya Memorial Hospital;19320;Private;-1.7808,37.6288
+Nyandarua;Olkalau;JM Kariuki County Referral Hospital;10916;Public;-0.2561768,36.3746935
+Nyandarua;Kinangop;Engineer County Hospital;10171;Public;-0.5945302,36.5750941
+Nyandarua;Kinangop;North Kinangop Catholic Hospital;10887;FBO;-0.5550151999999999,36.5540528
+Nyandarua;Olkalau;The Pine Hospital;26053;Private;-0.2350145,36.3755071
+Nyandarua;Kinangop;Pinnacle Flyover Hospital;20629;Public;-0.2643,36.3788
+Nyeri;Nyeri-central;NYERI COUNTY REFERRAL HOSPITAL;10903;Public;-0.4258928,36.9635602
+Nyeri;Nyeri-South;KNH ANNEX;25045;Public;-0.4167,36.95
+Nyeri;Nyeri-central;MT.KENYA HOSPITAL;10739;Public;-0.437099,36.9580104
+Kirinyaga;Kirinyaga central;Kerugoya county referral hospital;10520;Public;-0.5047745,37.2813749
+Kirinyaga;Kirinyaga north;Our lady of roudes mwea mission hospital;10808;FBO;-0.6835981,37.3526777
+Kirinyaga;Kirinyaga south;Kimbimbi sub county hospital;10609;Public;-0.6196431,37.3655603
+Kirinyaga;Kirinyaga west;Sagana sub county hospital;10994;Public;-0.6695131999999999,37.2061138
+Kirinyaga;Kirinyaga east;kianyaga sub county hospital;10565;Public;-0.5043008,37.3563667
+Kirinyaga;Kirinyaga central;ACK mt. Kenya hospital;10738;FBO;-0.4918461999999999,37.2650903
+Kirinyaga;Kirinyaga central;Kerugoya medical centre;10522;Private;-0.5028258,37.2789689
+Kirinyaga;Kirinyaga south;Mwea medical centre;10806;Private;-0.6838816999999999,37.3586816
+Muranga;Kiharu;Murang''a County Referral Hospital';10777;Public;-0.7187538000000001,37.1611409
+Muranga;Kiharu;Muriranjas Sub County Hospital;10782;Public;-0.7504459,36.9913105
+Muranga;Kiharu;Family Heritage Hospital;22005;Private;-0.6939365000000001,36.96899
+Muranga;Kangema;Kangema Sub County Hospital;10470;Public;-0.6900796,36.9715437
+Muranga;Murang''a South';Maragua Sub County Hospital;10686;Public;-0.7894753,37.1275678
+Muranga;Murang''a South';Kenol Hospital;10512;Private;-0.9372347,37.1267188
+Muranga;Gatanga;Kirwara Sub County Hospital;10639;Public;-0.9291138999999999,36.9433552
+Muranga;Kandara;Kandara Sub County Hospital;10459;Public;-0.8964137,37.0021177
+Muranga;Kandara;Githumu Hospital;10267;FBO;-0.784929,36.86798
+Muranga;Kandara;Gaichanjiru Hospital;10199;FBO;-0.8844063,37.0518784
+Muranga;Kigumo;Kigumo Sub County Hospital;10588;Public;-0.8074003,36.9863415
+Muranga;Mathioya;Kiria-Ini Mission Hospital;10627;FBO;-0.6022135,36.9515161
+Kiambu;Kikuyu;ACK Emmanuel Mission Hospital;24590;FBO;-1.2886562,36.7478329
+Kiambu;Juja;Oasis Mission Hospital;22542;FBO;-1.2388492,36.7866184
+Kiambu;Githunguri;Holy family catholic hospital githunguri;19963;FBO;-1.0586059,36.7739566
+Kiambu;Ruiru;Kalimoni Hospital (Ruiru);18200;FBO;-1.1438286,36.9567384
+Kiambu;Ruiru;Neema Hospital (Ruiru);18061;FBO;-1.1889803,36.9335676
+Kiambu;Ruiru;Nazareth Hospital (Ruiru);17490;FBO;-1.1465548,36.9471466
+Kiambu;Lari;Cure (AIC) International Hospital;17397;FBO;-1.2623332,36.8071039
+Kiambu;Juja;Kalimoni Mission Hospital (Juja);10438;FBO;-1.1161527,37.0196369
+Kiambu;Thika Town;Mary Help of The Sick Hospital;10698;FBO;-1.0395066,37.0914129
+Kiambu;Kikuyu;Kikuyu (PCEA) Hospital;10603;FBO;-1.2657762,36.667954
+Kiambu;Limuru;Nazareth Hospital;10825;FBO;-1.135621,36.726096
+Kiambu;Thika Town;St Mulumba Mission Hospital;10765;FBO;-1.0549746,37.1025691
+Kiambu;Lari;Kijabe (AIC) Hospital;10602;FBO;-0.9470276000000001,36.5945857
+Kiambu;Lari;Immaculate Heart Hospital Kereita;10518;FBO;-0.9931668999999999,36.6551033
+Kiambu;Thika Town;Immaculate Heart of Mary Hospital;10349;FBO;-1.0696441,37.23412930000001
+Kiambu;Kabete;Wangige Sub County Hospital;11170;Public;-1.2202532,36.7132449
+Kiambu;Kabete;Nyathuna Level 4 Hospital;10895;Public;-1.1858719,36.67819410000001
+Kiambu;Juja;Jkuat Hospital;10378;Public;-1.0966017,37.0128871
+Kiambu;Kiambaa;Kihara Sub County Hospital;10591;Public;-1.2145118,36.7674875
+Kiambu;Gatundu North;Igegania Sub-District Hospital;10338;Public;-1.0141828,36.90628239999999
+Kiambu;Gatundu South;Gatundu District Hospital;10233;Public;-1.0151664,36.9061241
+Kiambu;Lari;Lari Hospital;10655;Public;-1.0088326,36.6264164
+Kiambu;Thika Town;Thika Level 5 Hospital;11094;Public;-1.0418127,37.0786691
+Kiambu;Limuru;Tigoni District Hospital;11104;Public;-1.1281123,36.6685564
+Kiambu;Ruiru;Ruiru Sub-County Hospital;10973;Public;-1.1446222,36.9557363
+Kiambu;Kiambu Town;Kiambu County Referal Hospital;10539;Public;-1.175273,36.8305906
+Kiambu;Kiambaa;Karuri Level 4 Hospital;10507;Public;-1.1760553,36.75255860000001
+Kiambu;Kikuyu;Lusigetti Sub-county Hospital;10666;Public;-1.2734921,36.6066932
+Kiambu;Githunguri;Kigumo Level 4 hospital;10587;Public;-1.0324871,36.8302844
+Kiambu;Kabete;Life Point Hospital;25364;Private;-1.235154,36.6750586
+Kiambu;Kikuyu;Oakwood Hospital;25503;Private;-1.2807611,36.6364257
+Kiambu;Thika Town;Thika Nursing Hospital;24150;Private;-1.0596972,37.1219914
+Kiambu;Limuru;St Joel Community Hospital;23966;Private;-1.1647753,36.6677492
+Kiambu;Gatundu North;Wendo Hospital Gatukuyu;23904;Private;-1.1478443,36.9500651
+Kiambu;Kiambu Town;St.Marys Mother & Child Hospital (Kiambu Town );23542;Private;-1.1717394,36.8289451
+Kiambu;Kabete;Kabete Gardens Hospital;23297;Private;-1.1903054,36.6768893
+Kiambu;Ruiru;Arise Hospital Limited;23031;Private;-1.1683362,36.9743787
+Kiambu;Juja;Juja Modern Hospital & Maternity;22321;Private;-1.0995246,37.0243594
+Kiambu;Thika Town;Caritas community hospital;22054;Private;-1.0411987,37.0924921
+Kiambu;Thika Town;Avenue Hospital Thika;20628;Private;-1.0383911,37.0774899
+Kiambu;Kiambu Town;Radiant Group of Hospital (Kiambu);20383;Private;-1.165121,36.822971
+Kiambu;Kiambu Town;St.Teresa Hospital Kiambu;20378;Private;-1.1991137,36.8360871
+Kiambu;Kiambu Town;St Marks Hospital;19655;Private;-1.1714,36.8356
+Kiambu;Gatundu South;St Judes Nursing Home Hospital;19603;Private;-1.0171895,36.9148231
+Kiambu;Kiambu Town;Mercylight Hospital;18597;Private;-1.172781,36.8306149
+Kiambu;Thika Town;Central Memorial Hospital;10083;Private;-1.036806,37.080684
+Kiambu;Thika Town;Naidu Hospital;10819;Private;-1.0292943,37.0691353
+Kiambu;Ruiru;Kahawa Wendani Hospital;10308;Private;-1.1948614,36.92583279999999
+Kiambu;Ruiru;Eddiana Hospital;10162;Private;-1.1444583,36.9557334
+Kiambu;Thika Town;Vineyard Hospital;10154;Private;-1.0382638,37.0786138
+Kiambu;Ruiru;Ruiru Hospital Limited;10974;Private;-1.144159,36.9580085
+Kiambu;Thika Town;Mt Sinai Nursing Home;10740;Private;-1.0521784,37.0980385
+Kiambu;Thika Town;Caritas community hospital (Township);10088;Private;-1.0411987,37.0924921
+Kiambu;Thika Town;Thika Nursing Home;11097;Private;-1.0596972,37.1219914
+Turkana;Turkana Central;Lodwar County Referral Hospital;15049;Public;3.1224343,35.601158
+Turkana;Turkana West;Lopiding sub county Hospital;15081;Public;3.1167,35.6
+Turkana;Turkana North;Lokitaung sub county Hospital;15062;Public;3.1167,35.6
+Turkana;Turkana East;Kapedo sub county Hospital;14699;Public;3.1167,35.6
+Turkana;Loima;Kakuma sub county Hospital;25423;Public;3.1167,35.6
+Turkana;Turkana Central;Lorugum sub county Hospital;20826;Public;2.8890326,35.2675355
+Turkana;Turkana South;Kanamkemer sub county Hospital;25423;Public;3.1011275,35.601344
+Turkana;Turkana South;Katilu sub county Hospital;14818;Public;3.1167,35.6
+Turkana;Turkana East;Lokichar sub county Hospital;21345;Public;3.1167,35.6
+Turkana;Turkana East;Lokori sub county Hospital;21316;Public;3.1167,35.6
+Turkana;Turkana East;Elelea sub county Hospital;14436;Public;3.1167,35.6
+Turkana;Kibish;Kaikor sub county Hospital;14643;Public;3.1167,35.6
+Turkana;Turkana west;Kakuma Mission Hospital;14655;FBO;3.1167,35.6
+Turkana;Turkana west;Ammusait General Hospital;25412;NGO;3.1167,35.6
+West pokot;West pokot;Kapenguria county referral hospital;14701;Public;1.2376174,35.1213017
+West pokot;Pokot central;Sigor sub couunty hospital;15564;Public;1.2389,35.1119
+West pokot;Pokot south;Chepareria sub county hospital;14330;Public;1.3004268,35.1993065
+West pokot;Pokot north;Kacheliba sub county hospital;14634;Public;1.4898612,35.0101464
+West pokot;Pokot south;Ortum mission hospital;15446;FBO;1.4364194,35.3552542
+Samburu;Samburu Central;Samburu County Referral Hospital;15126;Public;1.098072,36.6962386
+Trans Nzoia;Kiminini;kitale county hospital;14947;public;1.0161503,35.0088777
+Trans Nzoia;Kiminini;mt elgon hospital;15239;public;1.01623,35.0102454
+Trans Nzoia;Kwanza;kwanza sub county hospital;15003;public;1.1627353,34.9984455
+Trans Nzoia;Endebess;endebess sub county hospital;14455;public;1.0784056,34.8565872
+Trans Nzoia;Kiminini;matunda sub county hospital;16364;public;0.8255876,35.1155126
+Trans Nzoia;Cherengany;cherangany sub county hospital;16743;public;0.9783536,35.2202415
+Trans Nzoia;Cherengany;kapsara sub county hospital;15377;public;1.1208868,35.1653759
+Trans Nzoia;Saboti;saboti sub county hospital;14119;public;0.937417,34.8374497
+Uasin Gishu;Kapseret;Kapteldon Sub county Hospital;14779;Public;0.4819092,35.2092897
+Uasin Gishu;Kesses;Kesses Sub County Hospital;14841;Public;0.1573432,35.4063039
+Uasin Gishu;Soy;Ziwa Sub County Hospital;15788;Public;0.5143472,35.2697119
+Uasin Gishu;Ainabkoi;Burnt Forest Sub County Hospital;16347;Public;0.2144427,35.4362549
+Uasin Gishu;Turbo;Turbo Sub County Hospital;15753;Public;0.6342241,35.0470761
+Uasin Gishu;Moiben;Moiben Sub County Hospital;15206;Public;0.8154813999999999,35.3838472
+Uasin Gishu;;;;;0.5112302999999999,35.2799749
+Uasin Gishu;Moiben;Uasin gishu district Hospital;15758;Public;0.5178043,35.2769238
+Uasin Gishu;Turbo;Huruma Sub County Hospital;14555;Public;0.529421,35.2469512
+Uasin Gishu;Ainabkoi;Mediheal Hospital-Eldoret;15167;Private;0.5078182,35.2953353
+Uasin Gishu;Ainabkoi;Moi Teaching & Referral Hospital;;Public;0.5116629,35.280477
+Uasin Gishu;Ainabkoi;Eldoret Hospital;14435;Private;0.5167158,35.2797129
+Uasin Gishu;Turbo;Moi Barracks-Eldoret;;Military;0.5167,35.2833
+Elgeyo Marakwet;Keiyo North;Iten County Referral Hospital;14586;Public;0.6765321,35.5070822
+Nandi;Emgwen;Kapsabet county referral hospital;14749;Public;0.2024973,35.1030286
+Nandi;Nandi Hills;Nandi Hills County hospital;14179;Public;0.1036607,35.1841028
+Nandi;Aldai;Kaptumo sub county hospital;14792;Public;0.1146627,35.0938658
+Nandi;Tinderet;Meteitei sub county hospital;15181;Public;-0.0685429,35.3356518
+Nandi;Mosop;Kabiyet sub county hospital;14623;Public;0.413503,35.075451
+Nandi;Mosop;Chepterwai sub county hospital;14369;Public;0.3176426,35.1689331
+Nandi;Tinderet;Mosoriot sub county hospital;15229;Public;0.3217199,35.1728193
+Baringo;Baringo Central;Kabarnet Bliss Medical Center;23828;Private;0.4929422,35.7430961
+Baringo;Mogotio;Mogotio Sub-County Hospital Baringo;20005;Public;0.4919,35.743
+Baringo;Marigat;Marigat Sub District Hospital;15138;Public;0.4694721000000001,35.98327430000001
+Baringo;Koibatek;Mercy Hospital;15174;FBO;0.0542601,35.7239288
+Baringo;Baringo Central;Baringo County Refferal Hospital;14607;Public;0.4852463999999999,35.7420833
+Baringo;Tiaty West;Chemolingot District Hospital;14321;Public;0.4919,35.743
+Baringo;Koibatek;Eldama Ravine District Hospital;14432;Public;0.0463726,35.7245967
+Baringo;Baringo North;Kabartonjo Referral Hospital;14609;Public;0.6331728,35.79663070000001
+Baringo;Tiaty East;Tangulbei Sub county Hospital;15707;Public;0.4919,35.743
+Laikipia;Laikipia East;Nanyuki Teaching and Referral Hospital;26822;Public;0.0217632,37.0716248
+Laikipia;Laikipia West;Nyahururu County Referral Hospital;10890;Public;0.0167,37.0667
+Nakuru;Nakuru North;Bahati District Hospital;14224;Public;-0.1705413,36.1234755
+Nakuru;Nakuru East;Optimum Current Health Care Hospital;26526;Private;-0.2848417,36.0667383
+Nakuru;Nakuru West;Mediheal Hospital (Nakuru) Annex;24929;Private;-0.285841,36.1078534
+Nakuru;Rongai;Soin sub county hospital;15200;Public;-0.1705283,35.8552598
+Nakuru;Gilgil;St. Joseph RiftValley Hospital;25155;Private;-0.4113162,36.2512501
+Nakuru;Gilgil;Gilgil Military Regional Hospital;14511;Armed Forces;-0.4922735,36.31729929999999
+Nakuru;Molo;Elburgon Sub-District Hospital;14431;Public;-0.3059756,35.8075514
+Nakuru;Nakuru East;Mirugi Kariuki Sub County Hospital;15188;Public;-0.2913528,36.1273805
+Nakuru;Nakuru East;Bondeni Sub County Hospital;14265;Public;-0.2943821,36.0798278
+Nakuru;Nakuru East;Mediheal Hospital Nakuru;18266;Private;-0.28595,36.1078569
+Nakuru;Nakuru East;Baraka Maternity Home;14230;Private;-0.2892674,36.0691369
+Nakuru;Naivasha;Naivasha District Hospital;15280;Public;-0.7190769,36.4394104
+Nakuru;Subukia;Kabazi Sub County Hospital;14611;Public;-0.07635539999999999,36.1679018
+Nakuru;Nakuru East;Nairobi Women hospital - Nakuru CBD;24173;Private;-0.2845292,36.0695224
+Nakuru;Subukia;Subukia Sub County Hospital;15678;Public;0.0028331,36.2305703
+Nakuru;Nakuru East;Langa Langa Hospital;15009;Public;-0.3028595,36.0704836
+Nakuru;Naivasha;Polyclinic Hospital;15466;Private;-0.7170833,36.4346096
+Nakuru;Nakuru West;Sunrise Evans Hospital;15686;Private;-0.284645,36.071092
+Nakuru;Nakuru West;Nakuru Provincial General Hospital;15288;Public;-0.2781041,36.0702784
+Nakuru;Gilgil;Gilgil Sub County Hospital;14510;Public;-0.4922735,36.31729929999999
+Nakuru;Kuresoi South;Olenguruone Sub-District Hospital;15398;Public;-0.5911857,35.6857811
+Nakuru;Kuresoi South;Keringet Sub County Hospital;14836;Public;-0.4260762,35.6901698
+Nakuru;Nakuru East;Nakuru Nursing Home;15287;Private;-0.2899131,36.0794318
+Nakuru;Molo;Molo District Hospital;15212;Public;-0.2488358,35.7323709
+Nakuru;Njoro;Njoro Subcounty Hospital;15358;Public;-0.3304263,35.9433967
+Nakuru;Nakuru West;Annex Hospital (Nakuru);14207;Public;-0.2824468,36.08137079999999
+Nakuru;Nakuru West;Nakuru War Memorial Hospital;15289;Private;-0.2819587,36.0808125
+Nakuru;Naivasha;The Karen Hospital Limited(Naivasha);23568;Private;-0.7165315999999999,36.4355392
+Nakuru;Gilgil;St Mary''s Hospital';15654;FBO;-0.4146738,36.250011
+Nakuru;Njoro;Egerton University;14426;Public;-0.3715584,35.9310651
+Nakuru;Nakuru East;Nairobi Women''s Hospital';20061;Private;-0.2833,36.0667
+Nakuru;Nakuru East;Valley Hospital;15764;Private;-0.2884635,36.0635676
+Nakuru;Nakuru West;Alexandria Cancer Centre & Palliative care Hospital;22886;Private;-0.2752291,36.0761743
+Nakuru;Nakuru East;Mercy Mission Hospital - Annex Nakuru;22859;FBO;-0.290467,36.0722546
+Narok;Narok north;Narok county Referal Hospital;15311;Public;-1.0843742,35.8672487
+Narok;Transmara West;Lolgorian Sub District Hosp;15068;Public;-1.0833,35.8667
+Narok;Narok West;Baraka Hospital;17757;NGO;-1.0875428,35.87706420000001
+Narok;Narok North;The Shepherd Hospital Limited;26997;NGO;-1.0949551,35.8618936
+Narok;Narok North;Narok Cottage Hospital;20548;Private;-1.09257,35.875093
+Narok;Narok North;Medicatia Hospital;18784;Private;-1.0697451,35.8674784
+Narok;Narok South;Ololulunga District Hospital;15423;Public;-1.0843742,35.8672487
+Narok;Transmara West;Transmara West Sub County Hospital;15739;Public;-1.0833,35.8667
+Narok;Transmara West;St Joseph Hospital;15647;FBO;-1.0875428,35.87706420000001
+Kajiado;Kajiado Central;Kajiado County Referral Hospital;14652;Public;-1.8575039,36.7719758
+Kajiado;Kajiado South;Loitokitok Sub-County Hospital;15051;Public;-1.85,36.7833
+Kajiado;Kajiado East;Kitengela Sub-County Hospital;14950;Public;-1.4702776,36.9541888
+Kajiado;Kajiado North;Ngong Sub-County Hospital;15351;Public;-1.85,36.7833
+Kajiado;Kajiado North;Ongata Rongai Sub-County Hospital;15446;Public;-1.4004695,36.7604712
+Kericho;Bureti;Kapkatet Sub County Hospital;14706;Public;-0.6301772999999999,35.1933751
+Kericho;Bureti;AIC Litein Hospital;14178;FBO;-0.5884745,35.1889602
+Kericho;Bureti;St. Gabriel Hospital;22153;Private;-0.5878126,35.1932625
+Kericho;Bureti;Roret Sub County Hospital;15498;Public;-0.4804832,35.0993687
+Kericho;Sigowet/Soin;Sigowet Sub County Hospiotal;15568;Public;-0.3956784,35.0489076
+Kericho;Belgut;Sosiot SCH;15617;Public;-0.373866,35.2257402
+Kericho;Ainamoi;Kericho County Referral Hospital;14831;Public;-0.3717437,35.2799381
+Kericho;Ainamoi;Kericho Nursing Home;14834;Private;-0.3702607,35.2800389
+Kericho;Ainamoi;Siloam Hospital;15571;Private;-0.373837,35.273708
+Kericho;Ainamoi;St. Leonards Hospital;15649;Private;-0.361271,35.2736288
+Kericho;Ainamoi;UTK Central Hospital;15761;Private;-0.3692,35.2839
+Kericho;Ainamoi;Green View Hospital;14538;Private;-0.3803452,35.27566729999999
+Kericho;Kipkelion East;Londiani Hospital;15074;Public;-0.1634664,35.5931397
+Kericho;Kipkelion West;Kipkelion Sub County Hospital;14897;Public;-0.207704,35.4480605
+Kericho;Kipkelion West;Fort Ternan SCH;14501;Public;-0.2205489,35.2958607
+Kericho;Ainamoi;Kipchimchim Hospital;14890;FBO;-0.3271429,35.2679476
+Bomet;Bomet East;Longisa County referral Hospital;15077;Public;-0.8605436999999999,35.3905333
+Kakamega;Lurambi;Kakamega General and Referral Hospital;15915;Public;0.2743712,34.7598525
+Kakamega;Likuyani;Likuyani Sub County Hospital;15961;Public;0.6668495,35.109084
+Kakamega;Lugari;Lumakanda County Hospital;15969;Public;0.6349549,34.9761483
+Kakamega;Malava;Malava County Hospital;15996;Public;0.4486532,34.8539511
+Kakamega;Shinyalu;Shinyalu Model Health Centre;17596;Public;0.2212943,34.8130308
+Kakamega;Ikolomani;Iguhu County Hospital;15899;Public;0.161294,34.7630307
+Kakamega;Khwisero;Khwiseo Health Centre;15940;Public;0.6427366999999999,34.5191429
+Kakamega;Butere;Butere County Hospital;15836;Public;0.2087792,34.4929538
+Kakamega;Matungu;Matungu Sub County Hospital;16037;Public;0.3867051,34.4626657
+Kakamega;Navakholo;Navakholo Sub County Hospital;16078;Public;0.4135506,34.6828887
+Kakamega;Mumias West;Mumias West Sub County Hospital;25166;Public;0.3362546,34.4828237
+Kakamega;Mumias East;Shianda Health Centre;20194;Public;0.3309936,34.6073179
+Vihiga;Hamisi;Hamisi sub county hospital;15894;public;0.0747615,34.787888
+Vihiga;sabatia;sabatia sub county hosp;16098;public;0.1208415,34.7872944
+Vihiga;Luanda;Emuhaya subcounty hosp;15876;public;0.0358397,34.6264333
+Vihiga;Hamisi;kaimosi mission;15913;FBO;0.1258498,34.8455312
+Vihiga;Luanda;coptic mission hospital;15862;FBO;0.07151730180810216, 34.69707031334497
+Vihiga;sabatia;sabatia eye hospital;16097;FBO;0.121873,34.787473
+Bungoma;Kanduyi;Bungoma county referral hospital;15828;Public;0.5730537,34.5602382
+Bungoma;Bumula;Bumula subcounty hospital;15825;Public;0.5506835,34.4530968
+Bungoma;Kimilili;Kimilili subcounty hospital;15950;Public;0.7891239999999999,34.7129826
+Bungoma;Kabuchai;Chwele subcounty hospital;15860;Public;0.7358836,34.5777565
+Bungoma;Mt. Elgon;Mt. Elgon subcounty hospital;16025;Public;0.8419996,34.7139551
+Bungoma;Webuye East;Sinoko subcounty hospital;16126;Public;0.1208415,34.7872944
+Bungoma;Tongaren;Naitiri sucounty hospital;16061;Public;0.7561216,34.8905675
+Bungoma;Mt. Elgon;Cheptais subcounty hospital;15855;Public;0.8177116999999999,34.4530968
+Bungoma;Sirisia;Sirisia subcounty hospital;16130;Public;0.7527514,34.50808250000001
+Bungoma;Webuye West;Bokoli subcounty hospital;15808;Public;0.7107342999999999,34.6613446
+Bungoma;Webuye West;Webuye county hospital;16161;Public;0.6129858,34.7646029
+Bungoma;Webuye West;Lugulu misssion hospital;15965;FBO;0.6616624,34.7530167
+Bungoma;Kanduyi;St damiano mission hospital;16138;FBO;0.5503509,34.5577888
+Bungoma;Kanduyi;Elgon view hospital;15871;Private;0.5724566999999999,34.5630885
+Bungoma;Kanduyi;Bungoma west hospital;20323;Private;0.5928977,34.5517564
+Bungoma;Kanduyi;Lifecare hospital;18852;Private;0.5652208,34.56473709999999
+Bungoma;Kanduyi;Fountain health care;22652;Private;0.5666,34.5666
+Bungoma;Kimilili;Korry family hospital;23738;Private;0.580758,34.5582277
+Bungoma;Kanduyi;Khalaba medical centre;17881;Private;0.556298,34.560038
+Bungoma;Kimilili;Dreamland medical cenre;15864;FBO;0.8075610000000001,34.6965504
+Busia;Matayos;Busia County Referral Hospital;15834;Public;0.4600906,34.1047591
+Busia;Bunyala;Port Victoria Sub County Hospital;16091;Public;0.0973542,33.9755756
+Busia;Butula;Khunyangu Sub County Hospital;15939;Public;0.3376493,34.2581254
+Busia;Nambale;Nambale Sub County Hospital;16066;Public;0.4554826,34.2388058
+Busia;Samia;Sio Port Sub County Hospital;16128;Public;0.225315,34.0213178
+Busia;Samia;Holly Family Nangina Mission Hospital;16073;FBO;0.2772856,34.1051352
+Busia;Teso North;Teso North Sub County Hospital;16150;Public;0.61991,34.3453574
+Busia;Teso South;Alupe Sub County Hospital;15795;Public;0.4971072,34.1306434
+Siaya;Ugunja;Ambira Sub-County Hospital;13476;Public;0.1687429,34.2419815
+Siaya;Bondo;Bondo County Referral Hospital;13507;Public;-0.09415359999999999,34.2745763
+Siaya;Bondo;Got Agulu Sub-District Hospital;13588;Public;-0.0410272,34.0334659
+Siaya;Alego Usonga;Rwambwa Sub-county Hospital;14063;Public;0.0695769,34.097547
+Siaya;Alego Usonga;Siaya County Referral Hospital;14080;Public;0.0635498,34.2870057
+Siaya;Rarieda;Madiany Sub County Hospital;13747;Public;-0.332918,34.3199316
+Siaya;Ugunja;Sigomere Sub County Hospital;14085;Public;0.2013108,34.3617482
+Siaya;Bondo;Uyawi ACH;14165;Public;0.0607,34.2881
+Siaya;Ugenya;Ukwala SCH;14156;Public;0.192947,34.1884875
+Siaya;Gem;Yala SCH;14175;Public;0.0607,34.2881
+Siaya;Ugenya;Matibabu Ukwala Clinic (Hospital );17529;NGO;0.1953756,34.1893473
+Siaya;Gem;Sagam Community Hospital;14064;NGO;0.056178,34.5422811
+Siaya;Ugenya;Sega Cottage Hospital;14071;Private;0.2650925,34.2256264
+Siaya;Ugenya;Sega Mission Hospital;14073;FBO;0.2572596,34.2269081
+Siaya;Alego Usonga;Siaya Medical Centre;14081;Private;0.0671297,34.2865644
+Siaya;Rarieda;St Elizabeth Lwak Mission Health Centre;13739;FBO;0.06061250000000001,34.2837515
+Siaya;Alego Usonga;Bama Hospital;13493;Private;0.0564652,34.2941314
+Siaya;Gem;Dolphil Nursing & Maternity Home;13535;FBO;0.0230591,34.519604
+Siaya;Gem;Inuka Hospital & Maternity Home;13618;Private;0.1495732,34.3901803
+Kisumu;Kisumu Central;Migosi Sub County Hospital;13807;GOK;-0.0800459,34.7816743
+Kisumu;Kisumu Central;Kisumu County Referral Hospital;13704;GOK;-0.1016215,34.7555775
+Kisumu;Kisumu Central;Jaramogi Oginga Odinga Teaching and Referral Hospital;13939;GOK;-0.0889894,34.7717912
+Kisumu;Kisumu Central;Lumumba Health Centre;13738;GOK;-0.09951639999999999,34.7659173
+Kisumu;Kisumu East;Gita Sub-county Hospital;13647;GOK;-0.0276177,34.7905643
+Kisumu;Kisumu West;Nyahera Sub-County Hospital;13880;GOK;-0.0347093,34.7128242
+Kisumu;Kisumu West;Chulaimbo County Hospital;13528;GOK;-0.038797,34.69207
+Kisumu;Kisumu West;Ober Kamoth Sub county Hospital;13954;GOK;-0.114738,34.6094125
+Kisumu;Kisumu West;Ojola Sub County Hospital;13971;GOK;-0.1153107,34.6303372
+Kisumu;Seme;Kombewa County Hospital;13714;GOK;-0.1035198,34.5184046
+Kisumu;Seme;Miranga Sub District Hospital;13810;GOK;-0.0766,34.5444
+Kisumu;Seme;Manyuanda Health Centre;13770;GOK;-0.1,34.75
+Kisumu;Muhoroni;Muhoroni County Hospital;13831;GOK;-0.1566093,35.1983598
+Kisumu;Muhoroni;Nyang''oma Sub County Hospital';13928;GOK;-0.1566093,35.1983598
+Kisumu;Muhoroni;Masogo Sub County Hospital;13785;GOK;-0.1566093,35.1983598
+Kisumu;Nyakach;Nyakach County Hospital;13921;GOK;-0.3130753,34.9368801
+Kisumu;Nyakach;Katito Sub County Hospital;13657;GOK;-0.0889894,34.7717912
+Kisumu;Nyakach;Sondu Sub County Hospital;14096;GOK;-0.3900075,35.0140324
+Kisumu;Nyakach;Nyamarimba Sub County Hospital;13899;GOK;-0.3704523,34.9048274
+Kisumu;Nyando;Ahero County Hospital;13468;GOK;-0.1734779,34.9236089
+Kisumu;Nyando;Nyangande Sub-County Hospital;13923;GOK;-0.206834,34.84793
+Kisumu;Nyando;Rabuor Sub-county Hospital;14020;GOK;-0.1734779,34.9236089
+Kisumu;Kisumu Central;Avenue Hospital Kisumu;20123;Private;-0.0910956,34.76787700000001
+Kisumu;Kisumu Central;Aga Khan Hospital (Kisumu);13465;Private;-0.0986866,34.7565192
+Kisumu;Kisumu Central;Nightingale Milimani Hospital;24317;Private;-0.1079627,34.755722
+Kisumu;kisumu east;St. Elizabeth chiga;14106;FBO;-0.0990457,34.8448505
+Kisumu;Kisumu West;Maseno Mission;13781;FBO;0.0008151,34.6116755
+Kisumu;Kisumu West;St. Jairus;21766;Private;-0.07575799999999999,34.7240147
+Kisumu;Kisumu West;Portflorence;14017;Private;-0.1042386,34.752489
+Kisumu;Muhoroni;Koru Mission;13719;FBO;-0.1,34.75
+Kisumu;Muhoroni;St. vincent depaul;14128;FBO;-0.1604515,35.1950557
+Kisumu;Nyakach;Nyabondo Mission;13864;FBO;-0.3813936,34.9787337
+Kisumu;Nyando;Awasi Mission Hospital;13491;Private;-0.163636,35.0740886
+Kisumu;Nyando;Ahero medical clinic;18291;Private;-0.1734779,34.9236089
+Homa Bay;Homa Bay Town;St.Lawrence Hospital;21162;Private;-0.5330722999999999,34.4615869
+Homa Bay;Mbita;Mbita Sub-County Hospital;13798;Public;-0.4228748,34.2080882
+Homa Bay;Homa Bay Town;Homa Bay County Teaching and Referral Hospital;13608;Public;-0.5330722999999999,34.4615869
+Homa Bay;Kabondo Kasipul;Kabondo Sub-County Hospital;13638;Public;-0.4477504,34.8913824
+Homa Bay;Suba South;Nyandiwa Level IV Hospital;13920;Public;-0.7256695,34.0543965
+Homa Bay;Rachuonyo South;Nyangiela Sub District;13926;Public;-0.5381766,34.7069103
+Homa Bay;Suba South;Magunga Level IV Hospital;13753;Public;-0.6893437,34.1518039
+Homa Bay;Mbita;Ogongo Sub-County Hospital;13967;Public;-0.5735212,34.3718737
+Homa Bay;Rangwe;Asumbi Mission Hospital;13488;FBO;-0.6206752,34.6146423
+Homa Bay;Homa Bay Town;Marindi Sub County Referral Hospital;13777;Public;-0.5330722999999999,34.4615869
+Homa Bay;Suba South;Suba Sub-Couty Hospital;14130;Public;-0.5376995999999999,34.1680141
+Homa Bay;Suba South;Sori Lakeside Hospital (Sindo);23677;Private;-0.5417807,34.1657107
+Homa Bay;Karachuonyo;Kendu Sub-District Hospital;13668;Public;-0.3684466,34.649701
+Homa Bay;Karachuonyo;Kendu Adventist Hospital;13667;FBO;-0.4017081,34.6648567
+Homa Bay;Ndhiwa;Ndhiwa Sub-District Hospital;13841;Public;-0.728449,34.3660549
+Homa Bay;Rachuonyo South;Rachuonyo District Hospital;14022;Public;-0.5056432,34.7336232
+Homa Bay;Suba South;Kisegi Sub-District Hospital;13701;Public;-0.644992,34.052221
+Homa Bay;Rachuonyo South;Matata Nursing Hospital;13789;Public;-0.4280055,34.6888793
+Homa Bay;Rangwe;Rangwe Sub-District Hospital;14036;Public;-0.6008645,34.5811146
+Homa Bay;Karachuonyo;Kandiege Sub-District Hospital;13653;Public;-0.4292405,34.5527057
+Migori;Suna east;Migori county referral hospital;13805;Public;-1.0631322,34.4773543
+Migori;Uriri;Uriri subcounty hospital;14161;Public;-0.9518239,34.5129168
+Migori;Uriri;Oyani subcounty hospital;14009;Public;-1.0378751,34.5889693
+Migori;Uriri;Othoro subcounty hospital;14003;Public;-0.8907444999999999,34.3867108
+Migori;Awendo;Awendo subcounty hospital;13492;Public;-0.9017151999999999,34.5334534
+Migori;Rongo;Rongo subcounty hospital;14058;Public;-0.750881,34.598332
+Migori;Suna west;Nyamaraga sub county hospital;13897;Public;-1.1317395,34.369892
+Migori;Nyatike;Macalder subcounty hospital;13745;Public;-0.9546935,34.2856961
+Migori;Nyatike;Karungu subcounty hospital;13656;Public;-0.8433537,34.1573669
+Migori;Nyatike;Muhuru sub county hospital;13833;Public;-0.9988357999999999,34.0961553
+Migori;Kuria west;Isebania subcounty hospital;13625;Public;-1.2358768,34.4815457
+Migori;Kuria west;Kehancha subcounty hospital;13726;Public;-1.1800388,34.6283326
+Migori;Kuria east;Kegonga subcounty hospital;13663;Public;-1.2587098,34.6526527
+Migori;Kuria east;Ntimaru sub county hospital;13858;Public;-1.3333299,34.68766
+Migori;Suna east;St. Josephs mission;14110;FBO;-1.0713304,34.4749163
+Migori;Nyatike;St. Camillus sori;14103;FBO;-0.8221900999999999,34.134608
+Migori;Nyatike;Sori lake side hospital;23674;Private;-0.8412529999999999,34.1549
+Migori;Awendo;Rapcom hospital;14037;Private;-0.9082277,34.5293802
+Migori;Rongo;Royal hospital;14061;Private;-0.7595801999999999,34.5988357
+Migori;Suna west;Akidiva memorial hospital;14101;Private;-1.0954815,34.4542998
+Migori;Kuria west;Samjomen hospital;21427;Private;-1.169901,34.4417511
+Migori;Suna west;Ojele memorial hospital;13970;Private;-1.0977319,34.4609365
+Migori;Rongo;Lwala Community Hospital;13740;NGO;-0.6781324,34.6088219
+Migori;Uriri;Neocare memorial hospital;23755;Private;-1.0066849,34.519604
+Migori;Awendo;Ulanda mission hospital;23082;FBO;-1.0713304,34.4749163
+Migori;Kuria east;Wima Hospital;24235;Private;-1.2630493,34.6579985
+Migori;Suna east;Enockhan Hospital;24793;Private;-1.1134983,34.6206833
+Migori;Suna west;PASTOR MACHAJE HOSPITAL;14014;Private;-1.0748829,34.458641
+Migori;Rongo;Lenmek Hospital Rongo Annex;22320;Private;-0.6726,34.7711
+Migori;Kuria west;St Akidiva Mindira Hospital - Mabera;20020;Private;-1.0954815,34.4542998
+Kisii;Bobasi;Nyamache Sub County Refferal Hospital;13891;GOK;-0.8562257999999999,34.8288507
+Kisii;Bobasi;Nyacheki Sub Couny Hospital;13867;GOK;-0.893411,34.8781187
+Kisii;Bomachoge Borabu;Kenyenya Sub Count Referral Hospital;13673;GOK;-0.8562257999999999,34.8288507
+Kisii;Bomachoge Chache;Gucha Sub County Referral Hospital;13594;GOK;-0.7965863,34.7233115
+Kisii;Bomachoge Chache;Misesi Sub County Hospital;13814;GOK;-0.677334,34.779603
+Kisii;Bonchari;Iyabe Sub County Referral Hospital;13631;GOK;-0.677334,34.779603
+Kisii;Bonchari;Nyamagundo Sub County Hospital;13892;GOK;-0.6393446,34.7022519
+Kisii;Bonchari;Marble Hospital;22839;Private;-0.6049344,34.7454835
+Kisii;Kitutu Chache North;Marani Sub County Referral Hospital;13772;GOK;-0.5756492999999999,34.8016945
+Kisii;Kitutu Chache North;Getembe Kenyara Hospital;23594;Private;-0.677334,34.779603
+Kisii;Kitutu Chache South;Kisii Teaching and Referral Hospital;13703;GOK;-0.6708780999999999,34.7713786
+Kisii;Kitutu Chache South;Iranda Sub County Referral Hospital;13620;GOK;-0.677334,34.779603
+Kisii;Kitutu Chache South;Mediforte Hospital LTD;25454;Private;-0.6676888999999999,34.769621
+Kisii;Kitutu Chache South;Care and Cure Hospital;24483;Private;-0.677334,34.779603
+Kisii;Kitutu Chache South;The Nairobi Family Hospital;23961;Private;-0.6817,34.7667
+Kisii;Kitutu Chache South;Oasis Specialist Hospital;20619;Private;-0.6674647,34.7700233
+Kisii;Kitutu Chache South;Nyangena Hospital;13925;Private;-0.6626588999999999,34.7490132
+Kisii;Kitutu Chache South;Ram Hospital;14028;Private;-0.6764726999999999,34.7740911
+Kisii;Kitutu Chache South;Getembe Hospital;13567;Private;-0.6740619999999999,34.76957
+Kisii;Kitutu Chache South;Bosongo Hospital;13515;Private;-0.6642448999999999,34.7547528
+Kisii;Kitutu Chache South;Hema Hospital;13603;Private;-0.6749864,34.7702211
+Kisii;Nyaribari Chache;Keumbu Sub County Referral Hospital;13680;GOK;-0.7340649,34.8476736
+Kisii;Nyaribari Chache;Ibeno Sub County Hospital;13612;GOK;-0.7772,34.8521
+Kisii;Nyaribari Chache;Christamarrianne Hospital;13527;FBO;-0.6819470999999999,34.7724844
+Kisii;Nyaribari Chache;Nyanchwa Adventist Hospital;13918;FBO;-0.6805141,34.7665572
+Kisii;Nyaribari Masaba;Gesusu Sub County Refferal Hospital;13564;GOK;-0.8701215,34.9093086
+Kisii;Nyaribari Masaba;Masimba Sub County Hospital;13783;GOK;-0.8609817999999999,34.9382584
+Kisii;Nyaribari Masaba;Ibacho Sub County Hospital;13611;GOK;-0.8194864,34.8706935
+Kisii;Nyaribari Masaba;Nyamasibi Sub County Hospital;13903;GOK;-0.8167838,34.9451498
+Kisii;Nyaribari Masaba;St Cathrine Ichuni Mission Hospital;20914;FBO;-0.7874254,34.9423933
+Kisii;South Mugirango;Nduru Sub County Referral Hospital;13847;GOK;-0.8095964999999999,34.6319485
+Kisii;South Mugirango;Etago Sub County Hospital;13550;GOK;-0.9000435999999999,34.6623715
+Kisii;South Mugirango;Tabaka Mission Hospital;14139;FBO;-0.7471859,34.6671585
+Nyamira;Manga;Manga District Hospital;13766;Public;-0.6127551,34.8354149
+Nyamira;Manga;Holsoms Nursing Home;24431;Private;-0.3702607,35.2800389
+Nyamira;Manga;Nyangena Sub District Hospital (Manga);13924;Public;-0.6604,34.7405
+Nyamira;Nyamira South;Nyamira County Refferal Hospital;13912;Public;-0.5577862,34.92919490000001
+Nyamira;Nyamira South;Oasis Maternity and Nursing Home;23702;Private;-0.589131,34.934536
+Nyamira;Nyamira South;Kinara Hospital;13913;Private;-0.5669405,34.9341234
+Nyamira;Nyamira North;Nyamusi Sub-District Hospital;13916;Public;-0.4786999999999999,34.9825
+Nyamira;Nyamira North;Ekerenyo Sub-District Hospital;13540;Public;-0.5306225,34.9878636
+Nyamira;Masaba North;Esani Sub-District Hospital;13548;Public;-0.682893,34.9424012
+Nyamira;Masaba North;Gesima Sub-County Hospital;13559;Public;-0.6829335999999999,34.9424323
+Nyamira;Masaba North;Masaba District Hospital;13678;Public;-0.780902,34.948296
+Nyamira;Borabu;Kijauri Sub County Hospital;13692;Public;-0.7626494,35.0164444
+Nyamira;Borabu;Nyansiongo Nursing Home;13937;FBO;-0.7622943,35.0155666
+Nairobi;Roysambu;Kenyatta University Teaching Refferal and Research Hospital;24979;Public;-1.1776622,36.915433
+Nairobi;Embakasi West;Mama Lucy Kibaki Hospital - Embakasi;17411;Public;-1.274009,36.8989906
+Nairobi;Dagoretti South;Mutuini Sub-District Hospital;13105;Public;-1.2881086,36.69739089999999
+Nairobi;Mathare;Mathari Hospital;13076;Public;-1.2608177,36.8465546
+Nairobi;Kibra;Kenyatta National Hospital;13023;Public;-1.301301,36.8069899
+Nairobi;Kamukunji;Moi Air Base Hospital;13095;Public;-1.2660341,36.8595251
+Nairobi;Kamukunji;Pumwani Maternity Hospital;13156;Public;-1.2806642,36.8454773
+Nairobi;Dagoretti North;National Spinal Injury Hospital;13194;Public;-1.2877694,36.7940172
+Nairobi;Kibra;Memorial Hospital;13087;Public;-1.3112569,36.8056377
+Nairobi;Kibra;Mbagathi District Hospital;13080;Public;-1.3076849,36.8032509
+Nairobi;Westlands;Nairobi Adventist Hospital;24563;FBO;-1.2243067,36.7833346
+Nairobi;Dagoretti North;Better Living Hospital;23385;FBO;-1.2892329,36.80625930000001
+Nairobi;Ruaraka;Ruaraka Uhai Neema Hospital;18485;FBO;-1.226956,36.885225
+Nairobi;Kasarani;St Francis Community Hospital (Kasarani);17943;FBO;-1.2252935,36.9162257
+Nairobi;Starehe;The Mater Misericordiae Hospital;13074;FBO;-1.3073449,36.8347073
+Nairobi;Makadara;Jamaa Mission Hospital;12984;FBO;-1.2817508,36.8731704
+Nairobi;Mathare;Jumuia Hospital Huruma;12972;FBO;-1.2606382,36.874162
+Nairobi;Dagoretti North;Coptic Hospital (Ngong Road);12905;FBO;-1.2978588,36.7976586
+Nairobi;Langata;St Mary''s Mission Hospital';13218;FBO;-1.3223226,36.7742359
+Nairobi;Westlands;Mediheal Hospital Parklands;26331;Private;-1.262303,36.8226364
+Nairobi;Dagoretti North;Garden Specialist Hospital;25941;Private;-1.2890357,36.79812
+Nairobi;Starehe;Health Gate Hospital;25644;Private;-1.2797351,36.8462426
+Nairobi;Kasarani;RFH Specialist Hospital;24828;Private;-1.2745018,37.0048837
+Nairobi;Kasarani;Radiant Group Of Hospitals Kasarani Sportsview;24488;Private;-1.2181765,36.9011439
+Nairobi;Kamukunji;Mediheal Hospital Eastleigh;23985;Private;-1.2865377,36.8520603
+Nairobi;Ruaraka;Drive-In Nursing Hospital-Ruaraka;23855;Private;-1.2517253,36.8762833
+Nairobi;Westlands;The Nairobi Hospital Warwick Outpatient Center;23559;Private;-1.2958727,36.8033705
+Nairobi;Embakasi East;Bristol Park Hospital Utawala;23399;Private;-1.2795805,36.9688248
+Nairobi;Kasarani;Radiant Hospital Kasarani Annex;23068;Private;-1.2181765,36.9011439
+Nairobi;Langata;South C Hospital Limited(South C);22844;Private;-1.3165307,36.8288543
+Nairobi;Westlands;Lions Sightfirst Eye Hospital;21147;Private;-1.2552575,36.75024130000001
+Nairobi;Langata;Melchizedek Hospital Karen;20072;Private;-1.3362403,36.7757709
+Nairobi;Westlands;The Mater Hospital (Westlands);19543;Private;-1.2608184,36.8043475
+Nairobi;Embakasi East;Mariakani Cottage Hospital Utawala;19432;Private;-1.2866604,36.9727454
+Nairobi;Starehe;Juja Road Hospital (Nairobi);19318;Private;-1.2678724,36.8378988
+Nairobi;Starehe;Lad Nan Hospital;19316;Private;-1.2699645,36.8408989
+Nairobi;Roysambu;St Louis Community Hospital;19280;Private;-1.2252935,36.9162257
+Nairobi;Embakasi East;Bristal Park Hospital;18271;Private;-1.3130358,36.8945139
+Nairobi;Starehe;South B Hospital Ltd;18005;Private;-1.3122026,36.8376746
+Nairobi;Langata;St Mac''s Hospital';17391;Private;-1.3154469,36.80147280000001
+Nairobi;Dagoretti North;Nairobi Womens Hospital Adams;16795;Private;-1.293722,36.7960752
+Nairobi;Dagoretti North;Nairobi Hospital;13110;Private;-1.2958727,36.8033705
+Nairobi;Westlands;Mp Shah Hospital (Westlands);13098;Private;-1.2634829,36.8120972
+Nairobi;Langata;Meridian Equator Hospital;13109;Private;-1.3078028,36.8243208
+Nairobi;Makadara;Mariakani Cottage Hospital Ltd;13064;Private;-1.396183,36.757296
+Nairobi;Kasarani;St Francis Com Hospital;13202;Private;-1.2252935,36.9162257
+Nairobi;Embakasi West;Umoja Hospital;13241;Private;-1.2805762,36.8889335
+Nairobi;Kamukunji;Mother & Child Hospital;13096;Private;-1.281468,36.8506609
+Nairobi;Kamukunji;Dorkcare Nursing Home;12921;Private;-1.2748488,36.8500799
+Nairobi;Langata;Langata Hospital;13042;Private;-1.3277566,36.78929
+Nairobi;Embakasi Central;Kayole Hospital;13014;Private;-1.270093,36.918042
+Nairobi;Langata;The Karen Hospital;13004;Private;-1.3362403,36.7757709
+Nairobi;Westlands;Gertrudes Childrens Hospital;12950;Private;-1.2560416,36.8317246
+Nairobi;Starehe;Guru Nanak Hospital;12965;Private;-1.2696594,36.8324502
+Nairobi;Mathare;Huruma Maternity Hospital;12975;Private;-1.2606382,36.874162
+Nairobi;Roysambu;Compassionate Hospital;12902;Private;-1.2161704,36.8882291
+Nairobi;Westlands;Avenue Hospital;12874;Private;-1.2647728,36.8179196
+Nairobi;Westlands;Aga Khan Hospital;12867;Private;-1.2611676,36.8240491
+Nairobi;Dagoretti North;Nairobi Womens Hospital (Hurlingham);13117;Private;-1.293722,36.7960752
+Nairobi;Dagoretti North;Melchezedek Hospital;13086;Private;-1.2944867,36.7553831
+Nairobi;Starehe;Radiant Pangani Hospital;13158;Private;-1.2675536,36.8435361
+Nairobi;Langata;Nairobi West Hospital;13115;Private;-1.3067072,36.8257035
+Nairobi;Makadara;Metropolitan Hospital Nairobi;13090;Private;-1.2877303,36.8751656
+Nairobi;Langata;Nairobi South Hospital;13112;Private;-1.3138291,36.8284928
