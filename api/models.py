@@ -8,11 +8,23 @@ class County(TimeStampedModel):
     name = models.CharField(max_length=555, blank=False, null=False)
     location = PlainLocationField(based_fields=['city'], zoom=7)
 
+    class Meta:
+        verbose_name_plural = "counties"
+
+    def __str__(self):
+        return self.name
+
 
 class SubCounty(TimeStampedModel):
     name = models.CharField(max_length=555, blank=False, null=False)
     county = models.ForeignKey(County, blank=False, null=False, on_delete=models.CASCADE)
     location = PlainLocationField(based_fields=['city'], zoom=7)
+
+    def __str__(self):
+        return self.name
+
+    class Meta:
+        verbose_name_plural = "sub-counties"
 
 
 class VaccineCenter(TimeStampedModel):
@@ -29,3 +41,9 @@ class VaccineCenter(TimeStampedModel):
     ownership = models.CharField(choices=Ownerships.choices, default=Ownerships.PUBLIC,
                                  max_length=50, blank=False, null=False)
     location = PlainLocationField(based_fields=['city'], zoom=7, blank=True, null=True)
+
+    class Meta:
+        verbose_name_plural = "vaccine centers"
+
+    def __str__(self):
+        return self.name
