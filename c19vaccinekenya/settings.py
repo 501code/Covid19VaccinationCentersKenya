@@ -132,11 +132,13 @@ STATICFILES_DIRS = (
 
 STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 
+GOOGLE_MAPS_API_KEY = 'AIzaSyCGYcZghJpvGiQeTGleIJHK4YTIv5duSC0'
+
 # Location field
 LOCATION_FIELD = {
     'search.provider': 'google',
     'provider.google.api': '//maps.google.com/maps/api/js?sensor=false',
-    'provider.google.api_key': 'AIzaSyCGYcZghJpvGiQeTGleIJHK4YTIv5duSC0',
+    'provider.google.api_key': GOOGLE_MAPS_API_KEY,
     'provider.google.api_libraries': '',
     'provider.google.map.type': 'ROADMAP',
 }
