@@ -18,10 +18,10 @@ from django.conf.urls.static import static
 from django.contrib import admin
 from django.urls import path
 
-from landingpage import views as landingpage_views
+from landingpage.views import LandingPage
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', landingpage_views.index, name='home')] \
+    path('', LandingPage.as_view(), name='home')] \
               + static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
 
