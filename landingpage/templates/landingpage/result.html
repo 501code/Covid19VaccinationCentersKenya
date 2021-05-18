@@ -8,7 +8,6 @@
     <div class="col-md-8 mx-auto">
       <h2 class="section-heading">Centers near you!</h2>
       <p style="color:white">Some description goes here</p>
-      {% if something %}
         <div class="row">
             <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
         <style type="text/css">
@@ -33,7 +32,7 @@
           // to the base of the flagpole.
           function initMap() {
             const map = new google.maps.Map(document.getElementById("map"), {
-              zoom: 10,
+              zoom: 15,
               center: {{ center }},
             });
             setMarkers(map);
@@ -90,9 +89,6 @@
           async
         ></script>
       </div>
-      {% elif %}
-        <div class="row">bla</div>
-      {% endif %}
     </div>
   </div>
 </div></div>
