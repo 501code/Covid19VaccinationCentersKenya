@@ -14,7 +14,9 @@ class LandingPage(View):
         super().__init__()
 
     def get(self, request):
-        context = {}
+        context = {
+            'GOOGLE_MAPS_API_KEY': settings.GOOGLE_MAPS_API_KEY,
+        }
         return render(request, self.template_name, context=context)
 
     def post(self, request):

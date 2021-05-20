@@ -9,39 +9,156 @@
       <h2 class="section-heading">Centers near you!</h2>
       <p style="color:white">Some description goes here</p>
         <div class="row">
-          <p id="picklock" class="btn">Pick your location</p>.
-          <script>
-          $(document).ready(function(){
-            $("button").click(function(){
-                $.post("https://",
-                {
-                  name: "Donald Duck",
-                  city: "Duckburg"
-                },
-                function(data, status){
-                  alert("Data: " + data + "\nStatus: " + status);
-                });
-              });
-          });
 
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
+    <link
+      href="https://fonts.googleapis.com/css?family=Roboto:400,500"
+      rel="stylesheet"
+    />
 
+    <style type="text/css">
+      /* Always set the map height explicitly to define the size of the div
+       * element that contains the map. */
+      #map {
+        height: 100%;
+      }
 
-                    function getLocation() {
-            if (navigator.geolocation) {
-              navigator.geolocation.getCurrentPosition(showPosition);
-            } else {
-              x.innerHTML = alert("Location could not be found");
-            }
-          }
+      /* Optional: Makes the sample page fill the window. */
+      html,
+      body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
 
-          function showPosition(position) {
-            var data = '{lat: '+position.coords.latitude+', lng: '+position.coords.longitude+'}';
-            window.post = function("", data) {
-              return fetch(url, {method: "POST", body: JSON.stringify(data)});
-            }
-          }
-          </script>
-          <p id="demo"></p>
+      body {
+        font-family: "Roboto", sans-serif;
+        font-size: 18px;
+        color: #686868;
+      }
+
+      form {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        max-width: 400px;
+        padding: 20px;
+      }
+
+      input {
+        width: 100%;
+        height: 1.2rem;
+        margin-top: 0;
+        padding: 0.5em;
+        border: 0;
+        border-bottom: 2px solid gray;
+        font-family: "Roboto", sans-serif;
+        font-size: 18px;
+      }
+
+      input:focus {
+        border-bottom: 4px solid black;
+      }
+
+      input[type="reset"] {
+        width: auto;
+        height: auto;
+        border-bottom: 0;
+        background-color: transparent;
+        color: #686868;
+        font-size: 14px;
+      }
+
+      .title {
+        width: 100%;
+        margin-block-end: 0;
+        font-weight: 500;
+      }
+
+      .note {
+        width: 100%;
+        margin-block-start: 0;
+        font-size: 12px;
+      }
+
+      .form-label {
+        width: 100%;
+        padding: 0.5em;
+      }
+
+      .full-field {
+        flex: 400px;
+        margin: 15px 0;
+      }
+
+      .slim-field-left {
+        flex: 1 150px;
+        margin: 15px 15px 15px 0px;
+      }
+
+      .slim-field-right {
+        flex: 1 150px;
+        margin: 15px 0px 15px 15px;
+      }
+
+      .my-button {
+        background-color: #000;
+        border-radius: 6px;
+        color: #fff;
+        margin: 10px;
+        padding: 6px 24px;
+        text-decoration: none;
+      }
+
+      .my-button:hover {
+        background-color: #666;
+      }
+
+      .my-button:active {
+        position: relative;
+        top: 1px;
+      }
+    </style>
+    <script>
+      let autocomplete;
+      let address1Field;
+
+      function initAutocomplete() {
+        address1Field = document.querySelector("#ship-address");
+        // Create the autocomplete object, restricting the search predictions to
+        // addresses in KE
+        autocomplete = new google.maps.places.Autocomplete(address1Field, {
+          componentRestrictions: { country: ["ke",] },
+          fields: ["address_components", "geometry"],
+          types: ["address"],
+        });
+        autocomplete.addListener("place_changed", fillInAddress);
+      }
+
+      function fillInAddress() {
+        // Get the place details from the autocomplete object.
+        const place = autocomplete.getPlace();
+        const lat = place.geometry.location.lat();
+        const lng = place.geometry.location.lng()
+        console.log(lat + "," + lng);
+
+      }
+    </script>
+    <form id="address-form" action="" method="get" autocomplete="off">
+      <label class="full-field">
+        <span class="form-label">Your location*</span>
+        <input
+          id="ship-address"
+          name="ship-address"
+          required
+          autocomplete="off"
+        />
+      </label>
+      <button type="button" class="my-button">Submit</button>
+    </form><script
+      src="https://maps.googleapis.com/maps/api/js?key={{GOOGLE_MAPS_API_KEY}}&callback=initAutocomplete&libraries=places&v=weekly"
+      async
+    ></script>
 
       </div>
     </div>
