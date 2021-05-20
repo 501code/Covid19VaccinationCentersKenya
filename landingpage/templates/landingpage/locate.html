@@ -1,0 +1,51 @@
+{% extends "landingpage/index.html" %}
+
+
+{% block content %}
+<div class="cta-content">
+<div class="container">
+  <div class="row">
+    <div class="col-md-8 mx-auto">
+      <h2 class="section-heading">Centers near you!</h2>
+      <p style="color:white">Some description goes here</p>
+        <div class="row">
+          <p id="picklock" class="btn">Pick your location</p>.
+          <script>
+          $(document).ready(function(){
+            $("button").click(function(){
+                $.post("https://",
+                {
+                  name: "Donald Duck",
+                  city: "Duckburg"
+                },
+                function(data, status){
+                  alert("Data: " + data + "\nStatus: " + status);
+                });
+              });
+          });
+
+
+
+                    function getLocation() {
+            if (navigator.geolocation) {
+              navigator.geolocation.getCurrentPosition(showPosition);
+            } else {
+              x.innerHTML = alert("Location could not be found");
+            }
+          }
+
+          function showPosition(position) {
+            var data = '{lat: '+position.coords.latitude+', lng: '+position.coords.longitude+'}';
+            window.post = function("", data) {
+              return fetch(url, {method: "POST", body: JSON.stringify(data)});
+            }
+          }
+          </script>
+          <p id="demo"></p>
+
+      </div>
+    </div>
+  </div>
+</div></div>
+<div class="overlay"></div>
+{% endblock %}

@@ -9,13 +9,16 @@ from api.models import VaccineCenter
 
 
 class LandingPage(View):
-    template_name = 'landingpage/result.html'
+    def __init__(self):
+        self.template_name = 'landingpage/locate.html'
+        super().__init__()
 
-    def post(self, request):
+    def get(self, request):
         context = {}
         return render(request, self.template_name, context=context)
 
-    def get(self, request):
+    def post(self, request):
+        self.template_name = 'landingpage/result.html'
         places = VaccineCenter.objects.exclude(Q(location__isnull=True) | Q(location=''))
         locs = []
         for place in places:
