@@ -141,20 +141,22 @@
         const lat = place.geometry.location.lat();
         const lng = place.geometry.location.lng()
         console.log(lat + "," + lng);
-
+        document.getElementById('center').value =  "{ lat: " + lat + ", lng: " + lng + "}";
       }
     </script>
-    <form id="address-form" action="" method="get" autocomplete="off">
+    <form id="address-form" action="" method="post" autocomplete="off">
       <label class="full-field">
         <span class="form-label">Your location*</span>
+        {% csrf_token %}
         <input
           id="ship-address"
           name="ship-address"
           required
           autocomplete="off"
         />
+        <input type="hidden" id="center" name="center">
       </label>
-      <button type="button" class="my-button">Submit</button>
+      <input type="submit" class="my-button"/>
     </form><script
       src="https://maps.googleapis.com/maps/api/js?key={{GOOGLE_MAPS_API_KEY}}&callback=initAutocomplete&libraries=places&v=weekly"
       async
