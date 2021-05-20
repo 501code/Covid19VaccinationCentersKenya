@@ -8,7 +8,7 @@
     <div class="col-md-8 mx-auto">
       <h2 class="section-heading">Centers near you!</h2>
       <p style="color:white">Some description goes here</p>
-        <div class="row">
+        <div class="">
 
     <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
     <link
@@ -146,17 +146,17 @@
     </script>
     <form id="address-form" action="" method="post" autocomplete="off">
       <label class="full-field">
-        <span class="form-label">Your location*</span>
         {% csrf_token %}
         <input
           id="ship-address"
           name="ship-address"
           required
           autocomplete="off"
+          type="text"
         />
         <input type="hidden" id="center" name="center">
       </label>
-      <input type="submit" class="my-button"/>
+      <button type="submit" class="btn btn-primary mb-2 submit-address" id="submit-address">Submit location</button>
     </form><script
       src="https://maps.googleapis.com/maps/api/js?key={{GOOGLE_MAPS_API_KEY}}&callback=initAutocomplete&libraries=places&v=weekly"
       async
