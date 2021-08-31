@@ -1,0 +1,833 @@
+County,Sub-County,Health Facility Name
+BARINGO,Baringo central,Baringo county Referat hospital
+BARINGO,Baringo North,Kabartonjo sub county hospital
+BARINGO,Baringo South/marigat,Marigat sub county hospital
+BARINGO,Eldama ravine sub county,Eldama ravine sub county hospital
+BARINGO,Mogotio sub county,Mogotio sub county hospital
+BARINGO,Tiaty east sub county,Tangulbei sub county hospital
+BARINGO,Tiaty west sub county,Chemolingot sub county hospital
+BOMET,Bomet Central,Bomet H.C
+BOMET,Bomet Central,Kapkoros SCH
+BOMET,Bomet Central,Tenwek Mission Hospital
+BOMET,Bomet East,Longisa CRH
+BOMET,Bomet East,Tegat SCH
+BOMET,Chepalungu,Sigor SCH
+BOMET,Chepalungu,Siongiroi HC
+BOMET,Konoin,Mogogosiek HC
+BOMET,Konoin,Cheptalal SCH
+BOMET,Sotik,Sotik HC
+BOMET,Sotik,Ndanai SCH
+BOMET,Sotik,Kaplong Mission Hospital
+BOMET,Sotik,Kipsonoi HC
+BUNGOMA,Bumula,Bumula Subcounty Hospital
+BUNGOMA,Kabuchai,Chwele Sub-County Hospital
+BUNGOMA,Kanduyi,Bungoma County Referral Hospital
+BUNGOMA,Kanduyi,St. Damiano Mission Hospital
+BUNGOMA,Kanduyi,Elgon View Hospital
+BUNGOMA,Kanduyi,Bungoma west Hospital
+BUNGOMA,Kanduyi,LifeCare Hospital
+BUNGOMA,Kanduyi,Fountain Health Care
+BUNGOMA,Kanduyi,Khalaba Medical Centre
+BUNGOMA,Kimilili,Kimilili Sub-County Hospital
+BUNGOMA,Kimilili,Korry Family Hospital
+BUNGOMA,Kimilili,Dreamland medical Centre
+BUNGOMA,Mt. Elgon,Cheptais Sub-County Hospital
+BUNGOMA,Mt.Elgon,Mt. Elgon Sub-County Hospital
+BUNGOMA,Sirisia,Sirisia Sub-County Hospital
+BUNGOMA,Tongaren,Naitiri Sub-County Hospital
+BUNGOMA,Webuye East,Sinoko Sub-County Hospital
+BUNGOMA,Webuye West,Bokoli Sub-County Hospital
+BUNGOMA,Webuye West,Webuye County Hospital
+BUNGOMA,Webuye West,Lugulu Mission Hospital
+BUSIA,Bunyala,Port-Victoria Sub-County Hospital
+BUSIA,Bunyala,Mukhobola Health Centre
+BUSIA,Butula,Khunyangu Sub-County Hospital
+BUSIA,Butula,Bumala B Health Centre
+BUSIA,Matayos,Busia County Referral Hospital
+BUSIA,Matayos,Matayos Health Centre
+BUSIA,Nambale,Nambale Sub-County Hospital
+BUSIA,Nambale,Lupida Health Centre
+BUSIA,Samia,Sio Port Hospital
+BUSIA,Samia,Nangina Holy Family
+BUSIA,Teso North,Kocholya Sub-County Hospital
+BUSIA,Teso North,Ang'urai Health Centre
+BUSIA,Teso North,Malaba Health Centre
+BUSIA,Teso South,Amukura Hospital
+BUSIA,Teso South,Alupe Isolation Centre Hospital
+"ELGEYO
+MARAKWET",Keiyo North,Tambach Sub-County Hospital
+"ELGEYO
+MARAKWET",Keiyo North,Chegilet Health Centre
+"ELGEYO
+MARAKWET",Keiyo North,Iten County Referral Hospital
+"ELGEYO
+MARAKWET",Keiyo South,Kamwosor Sub-County Hospital
+"ELGEYO
+MARAKWET",Keiyo South,Kocholwo Sub-County Hospital
+"ELGEYO
+MARAKWET",Keiyo South,Kaptarakwa Sub-County Hospital
+"ELGEYO
+MARAKWET",Keiyo South,Chepkorio H/C (Sub-County DVI store)
+"ELGEYO
+MARAKWET",Keiyo south,Muskut Health Center
+"ELGEYO
+MARAKWET",Keiyo south,Flourspar Health Center
+"ELGEYO
+MARAKWET",Keiyo south,Biretwo Health Center
+"ELGEYO
+MARAKWET",Marakwet East,Chesoi H/C (Sub-County DVI store)
+"ELGEYO
+MARAKWET",Marakwet East,Tot Sub-County Hospital
+"ELGEYO
+MARAKWET",Marakwet East,Kapyego Health Centre
+"ELGEYO
+MARAKWET",Marakwet West,Chebiemit Sub-County Hospital
+"ELGEYO
+MARAKWET",Marakwet West,AIC Kapsowar Hospital
+"ELGEYO
+MARAKWET",Marakwet West,Kapcherop Health Centre
+"ELGEYO
+MARAKWET",Marakwet West,Arror Health Centre
+EMBU,Manyatta,Embu level 5 Hospital
+EMBU,Manyatta,Kairuri health centre
+EMBU,Manyatta,Embu G.K prison Majimbo
+EMBU,Mbeere North,Mbeere subcounty Hospital
+EMBU,Mbeere North,Ishiara subcounty Hospital
+EMBU,Mbeere South,Embu Children’s hospital-Tenri
+EMBU,Mbeere South,Imara-Medi plus Hospital
+EMBU,Runyejes,Kirirtiri
+EMBU,Runyejes,Gategi
+EMBU,Runyejes,Kiambere H/C
+EMBU,Runyejes,Runyejes subcounty Hospital
+EMBU,Runyejes,Kianjokoma Health center
+EMBU,Runyejes,Karurumo Health Center
+EMBU,Runyejes,Kyeni- Consolata Hospital
+EMBU,Runyejes,Kigumo H/C
+GARISSA,Ifo Refugee Camp,Ifo Hospital
+GARISSA,Balambala,Balambala Sub-County Hospital
+GARISSA,Dadaab,Dadaab Sub-County Hospital
+GARISSA,Dagahley Refugee Camp,Dagahley Hospital
+GARISSA,Fafi,Bura sub county Hospital
+GARISSA,Garissa,Garissa County Referral Hospital
+GARISSA,Hagadera Refugee Camp,Hagadera Hospital
+GARISSA,Hulugho,Hulugo Sub-County Hospital
+GARISSA,Ijara,Ijara sub county Hospital
+GARISSA,Lagdera,Modogashe sub county Hospital
+HOMA BAY,Homa Bay Town,Homa Bay County Teaching & Referral Hospital
+HOMA BAY,Homa Bay Town,Marindi Sub County Hospital
+HOMA BAY,Ndhiwa,Ndhiwa Sub County Hospital
+HOMA BAY,Rachuonyo East,Kabondo Sub County Hospital
+HOMA BAY,Rachuonyo North (Karachuonyo),Kendu Sub County Hospital
+HOMA BAY,Rachuonyo North (Karachuonyo),Kendu Adventist Hospital
+HOMA BAY,Rachuonyo North (Karachuonyo),Kandiege L 4 Hospital
+HOMA BAY,Rachuonyo South,Rachuonyo Sub County Hospital
+HOMA BAY,Rangwe,Rangwe Sub County Hospital
+HOMA BAY,Suba North (Mbita),Mbita Sub County Hospital
+HOMA BAY,Suba North (Mbita),Ogongo L 4 Hospital
+HOMA BAY,Suba South,Suba Sub County Hospital
+HOMA BAY,Suba South,Magunga L 4 Hospital
+HOMA BAY,Suba South,Nyandiwa L.4 Hospital
+ISIOLO,Isiolo subcounty,Hospital_isiolo county Referral hospital
+KAJIADO,Kajiado Central,Ilbisil Health Centre
+KAJIADO,Kajiado Central,Namanga Health Centre
+KAJIADO,Kajiado Central,Kajiado County Referral Hospital
+KAJIADO,Kajiado East,Kitengela Sub-County Hospital
+KAJIADO,Kajiado East,Mashuru Health Centre
+KAJIADO,Kajiado North,Ngong Sub-County Hospital
+KAJIADO,Kajiado North,Ongata Rongai Sub-County Hospital
+KAJIADO,Kajiado South,Oloitokitok Sub-County Hospital
+KAJIADO,Kajiado West,Magadi Hospital
+KAJIADO,Kajiado West,Oltepesi Dispensary
+KAKAMEGA,Butere,Butere County Hospital
+KAKAMEGA,Butere,Manyala Sub County Hospital
+KAKAMEGA,Butere,Imanga Health Centre
+KAKAMEGA,Butere,Shiraha Health Centre
+KAKAMEGA,Butere,Lukohe Health Centre
+KAKAMEGA,Butere,Eshibimbi Health Centre
+KAKAMEGA,Butere,Eshimukoko Health Centre
+KAKAMEGA,Butere,Iranda Health Centre
+KAKAMEGA,Butere,Shikunga Health Centre
+KAKAMEGA,Butere,Mabole Health Centre
+KAKAMEGA,Ikolomani,Iguhu County Hospital
+KAKAMEGA,Ikolomani,Kilingili Health Centre
+KAKAMEGA,Ikolomani,Shibwe Su County Hospital
+KAKAMEGA,Ikolomani,Savane Dispensary
+KAKAMEGA,Khwisero,Khwisero Model Health Centre
+KAKAMEGA,Khwisero,Mulwanda Health Centre
+KAKAMEGA,Khwisero,Mundoli Health Centre
+KAKAMEGA,Khwisero,Emutsesa Health Centre
+KAKAMEGA,Khwisero,Ekambuli Health Centre
+KAKAMEGA,Khwisero,Namasoli Health Centre
+KAKAMEGA,Likuyani,Likuyani Sub County Hospital
+KAKAMEGA,Likuyani,Kongoni Health Centre
+KAKAMEGA,Likuyani,Matunda Sub County Hospital
+KAKAMEGA,Likuyani,Mabusi Health Centre
+KAKAMEGA,Lugari,Lumakanda County Hospital
+KAKAMEGA,Lugari,Mautuma Sub County Hospital
+KAKAMEGA,Lugari,Chekalini Centre
+KAKAMEGA,Lugari,Koromaiti Health Centre
+KAKAMEGA,Lugari,Maturu Dispensary
+KAKAMEGA,Lugari,Matete Health Centre
+KAKAMEGA,Lurambi,County General Hospital
+KAKAMEGA,Lurambi,GK Prisons (Satelite of CGH)
+KAKAMEGA,Lurambi,Elwesero Model Health Centre
+KAKAMEGA,Lurambi,Bukura RHDC
+KAKAMEGA,Malava,Malava County Hospital
+KAKAMEGA,Malava,Kuvasali Health Centre
+KAKAMEGA,Malava,Shamberere Health Centre
+KAKAMEGA,Malava,Shivanga Health Centre
+KAKAMEGA,Malava,Chombeli Health Centre
+KAKAMEGA,Matungu,Matungu Sub County Hospital
+KAKAMEGA,Matungu,Khalaba Health Centre
+KAKAMEGA,Matungu,Lung'anyiro Health Centre
+KAKAMEGA,Matungu,Mirere Health Centre
+KAKAMEGA,Matungu,Indangalasia Dispensary
+KAKAMEGA,Mumias East,Shianda Health Centre
+KAKAMEGA,Mumias East,Lusheya Health Centre
+KAKAMEGA,Mumias East,Khaunga Dispensary
+KAKAMEGA,Mumias East,Makunga RHDC
+KAKAMEGA,Mumias West,Mumias Level 4 Hospital
+KAKAMEGA,Mumias West,Bukaya Health Centre
+KAKAMEGA,Mumias West,Bungasi Health Centre
+KAKAMEGA,Navakholo,Navakholo Sub County Hospital
+KAKAMEGA,Navakholo,Bushiri Health Centre
+KAKAMEGA,Navakholo,Sivilie Health Centre
+KAKAMEGA,Navakholo,Kharanda Health Centre
+KAKAMEGA,Shinyalu,Shinyalu Model Health Centre
+KAKAMEGA,Shinyalu,Shamakhubu Health Centre
+KAKAMEGA,Shinyalu,Ileho Health Centre
+KAKAMEGA,Shinyalu,Shikusa Health Centre
+KAKAMEGA,Shinyalu,Ikuywa Dispensary
+KAKAMEGA,Shinyalu,Kambiri Health Centre
+KAKAMEGA,Shinyalu,Mugomari Dispensary
+KERICHO,Ainamoi,GK Prisons Dispensary Kericho
+KERICHO,Ainamoi,Kenegut Dispensary
+KERICHO,Ainamoi,Ainamoi Health Centre
+KERICHO,Ainamoi,Manyoror Dispensary
+KERICHO,Belgut,Kabianga Health Centre
+KERICHO,Belgut,Kapsoit Dispensary
+KERICHO,Belgut,Kapsuser
+KERICHO,Belgut,Seretut Dispensary
+KERICHO,Bureti,Kipwastuiyo Health Centre
+KERICHO,Bureti,Cheborgei Health Centre
+KERICHO,Kipkelion East,Momoniat Health Centre
+KERICHO,Kipkelion East,Kamwingi Dispensary
+KERICHO,Kipkelion East,Kedowa Dispensary
+KERICHO,Kipkelion West,Kunyak Dispensary
+KERICHO,Kipkelion West,Mtaragon Health Centre
+KERICHO,Kipkelion West,Makyolok Dispensary
+KERICHO,Sigowet/Soin,Kipsitet Dispensary
+KERICHO,Sigowet/Soin,Kaitui Dispensary
+KERICHO,Sigowet/Soin,Kiptere Dispensary
+KERICHO,Sigowet/Soin,Kabutii Matiret
+KIAMBU,Gatundu North,Igegania Sub-District Hospital
+KIAMBU,Gatundu South,Gatundu District Hospital
+KIAMBU,Gatundu-south,St Jude hospital
+KIAMBU,Gatundu-south,Karatu L4 Hosp
+KIAMBU,Githunguri,Holy family catholic hospital githunguri
+KIAMBU,Githunguri,Githunguri Health centre
+KIAMBU,Githunguri,Kigumo Sub County Hospital
+KIAMBU,Juja,Kalimoni Mission Hospital (Juja)
+KIAMBU,Juja,Jkuat Hospital
+KIAMBU,Juja,Gachororo Health centre
+KIAMBU,Kabete,LIFE-POINT hospital
+KIAMBU,Kabete,Uthiru Dispensary
+KIAMBU,Kabete,Wangige Sub County Hospital
+KIAMBU,Kabete,Nyathuna Level 4 Hospital
+KIAMBU,Kiambaa,Kihara Sub County Hospital
+KIAMBU,Kiambaa,Karuri L4 Hospital
+KIAMBU,Kiambu-town,Kiambu level 5 hospital
+KIAMBU,Kikuyu,ACK Emmanuel Mission Hospital
+KIAMBU,Kikuyu,Kikuyu (PCEA) Hospital
+KIAMBU,Kikuyu,Gichuru H centre
+KIAMBU,Kikuyu,Lusigett L4 hosp
+KIAMBU,Lari,Kijabe (AIC) Hospital
+KIAMBU,Lari,Lari Hospital
+KIAMBU,Lari,Kagaa H Centre
+KIAMBU,Limuru,Nazareth Hospital
+KIAMBU,Limuru,Tigoni L 4 hospital
+KIAMBU,Ruiru,Langata H Centre
+KIAMBU,Ruiru,Ruiru GK prison
+KIAMBU,Ruiru,Ruiru L4 hosp.
+KIAMBU,Thika-town,Kiandutu H Centre
+KIAMBU,Thika-town,Thika level 5 hospital
+KILIFI,Kilifi North,Kilifi County Hospital
+KILIFI,Malindi,Malindi Sub-county hospital
+KILIFI,Kaloleni,Mariakani sub county hospital
+KILIFI,Ganze,Bamba Sub county hospital
+KILIFI,Kilifi South,Vipingo Health Centre
+KILIFI,Magarini,Gongoni Health Centre
+KILIFI,Rabai,Rabai Health Centre
+KIRINYAGA,Kirinyaga North sub county,Thiba health centre
+KIRINYAGA,Kirinyaga central,Kerugoya medical centre
+KIRINYAGA,Kirinyaga central sub County,Kerugoya county hospital
+KIRINYAGA,Kirinyaga central sub County,ACK. Mt. Kenya hospital
+KIRINYAGA,"Kirinyaga East sub county,","Kianyaga sub county hospital,."
+KIRINYAGA,Kirinyaga south sub county,Kimbimbi sub county hospital
+KIRINYAGA,Kirinyaga South Sub cunty,"Mwea medical hospital,"
+KIRINYAGA,Kirinyaga west sub county,"Sagana sub county hospital,"
+KIRINYAGA,KirinyagaNorth sub county,Mwea mission hospital
+KISII,Bomachoge Borabu,Misesi Sub county
+KISII,Bonchari,Marble Hospital
+KISII,Kitutu Chache North,Getembe Kenyara Hospital
+KISII,Kitutu Chache South,Mediforte Hospital Ltd
+KISII,Kitutu Chache South,Care and Cure Hosp
+KISII,Kitutu Chache South,The Nairobi Family Hospital
+KISII,Kitutu Chache South,Oasis Specialist Hospital
+KISII,Kitutu Chache South,Ram hospital
+KISII,Kitutu Chache South,Getembe Hospital
+KISII,Kitutu Chache South,Bosono Hospital
+KISII,Kitutu Chache South,Hema Hospital
+KISII,Nyaribari Masaba,Masimba Sub county Hospital
+KISUMU,Kisumu Central,Migosi Sub County Hospital
+KISUMU,Kisumu Central,Kisumu County Referral Hospital
+KISUMU,Kisumu Central,Jaramogi Oginga Odinga Teaching and Referral
+KISUMU,Kisumu Central,Lumumba Health Centre
+KISUMU,Kisumu Central,Avenue Hospital Kisumu
+KISUMU,Kisumu Central,Aga Khan Hospital (Kisumu)
+KISUMU,Kisumu Central,Nightingale Milimani Hospital
+KISUMU,Kisumu East,Gita Sub-county Hospital
+KISUMU,Kisumu East,St. Elizabeth chiga
+KISUMU,Kisumu East,st monica hospital
+KISUMU,Kisumu West,Nyahera Sub-County Hospital
+KISUMU,Kisumu West,Chulaimbo County Hospital
+KISUMU,Kisumu West,Ober Kamoth Sub county Hospital
+KISUMU,Kisumu West,Maseno Mission
+KISUMU,Kisumu West,St. Jairus
+KISUMU,Muhoroni,Muhoroni County Hospital
+KISUMU,Muhoroni,Nyang'oma Sub County Hospital
+KISUMU,Muhoroni,Masogo Sub County Hospital
+KISUMU,Muhoroni,Koru Mission
+KISUMU,Muhoroni,St. vincent depaul
+KISUMU,Nyakach,Nyakach County Hospital
+KISUMU,Nyakach,Katito Sub County Hospital
+KISUMU,Nyakach,Sondu Sub County Hospital
+KISUMU,Nyakach,Nyamarimba Sub County Hospital
+KISUMU,Nyakach,Nyabondo Mission
+KISUMU,Nyando,Ahero County Hospital
+KISUMU,Nyando,Nyangande Sub-County Hospital
+KISUMU,Nyando,Rabuor Sub-county Hospital
+KISUMU,Nyando,Awasi Mission Hospital
+KISUMU,Seme,Kombewa County Hospital
+KISUMU,Seme,Miranga Sub District Hospital
+KISUMU,Seme,Manyuanda Health Centre
+KISUMU,Seme,Kolenyo
+KITUI,Kitui Central,Katulani Sub County Hospital (Kitui)
+KITUI,Kitui Central,Kitui County Referral Hospital
+KITUI,Kitui Central,Jordan Hospital
+KITUI,Kitui Central,Neema Hospital
+KITUI,Kitui East,Zombe Sub County Hospital
+KITUI,Kitui East,Mutitu Sub County Hospital
+KITUI,Kitui Rural,Kanyangi Sub County Hospital
+KITUI,Kitui South,Mutomo Sub County Hospital
+KITUI,Kitui South,Our Lady of Lourdes Mutomo Hospital
+KITUI,Kitui South,Ikanga Sub County Hospital
+KITUI,Kitui South,Ikutha Sub County Hospital
+KITUI,Kitui West,Muthale Mission Hospital
+KITUI,Kitui West,Kauwi Sub County Hospital
+KITUI,Mwingi Central,Mwingi Sub County Hospital
+KITUI,Mwingi Central,Nuu Sub County Hospital
+KITUI,Mwingi North,Kyuso Sub County Hospital
+KITUI,Mwingi North,Tseikuru Sub County Hospital
+KITUI,Mwingi West,Migwani Sub County Hospital
+KWALE,Kinango,Kinago Hospital
+KWALE,Kinango,Samburu Hospital
+KWALE,Lungalunga,Lungalunga Hospital
+KWALE,Matuga,Kwale Hospital
+KWALE,Msambweni,Msambweni County referral hospital
+KWALE,Msambweni,Kinondo hospital
+KWALE,Msambweni,Diani Beach hospital
+LAIKIPIA,Laikipia East,Nanyuki Hospital (Registered)
+LAIKIPIA,Laikipia East,Lamuria SC Hospital
+LAIKIPIA,Laikipia East,Kalalu Dispensary
+LAIKIPIA,Laikipia East,Wiyumiririe Dispensary
+LAIKIPIA,Laikipia East,Cottage Hospital
+LAIKIPIA,Laikipia North,Doldol SC Hospital
+LAIKIPIA,Laikipia North,Kimanjo Dispensary
+LAIKIPIA,Laikipia West,Nyahururu Hospital
+LAIKIPIA,Laikipia West,Rumuruti SC Hospital
+LAIKIPIA,Laikipia West,Ndindika SC Hospital
+LAIKIPIA,Laikipia West,Olmoran HC
+LAIKIPIA,Laikipia West,Ng’arua HC
+LAIKIPIA,Laikipia West,Salama HC
+LAIKIPIA,Laikipia West,St. Benedict Hospital
+LAIKIPIA,Laikipia West,Sipili HC
+LAMU,Lamu East,Faza Hospital
+LAMU,Lamu West,Mpeketoni Hospital
+LAMU,Lamu West,Lamu Hospital
+LAMU,Lamu West,Mokowe Health Centre
+LAMU,Lamu West,Hindi Magogoni Dispensary
+LAMU,Lamu West,Witu Health Centre
+MACHAKOS,Kathiani,Kathiani L4 Hospital
+MACHAKOS,Kathiani,Kaviani Health Centre
+MACHAKOS,Kathiani,Ithaeni Dispensary
+MACHAKOS,Kathiani,Mutitu dispensary
+MACHAKOS,Kathiani,Mitaboni Health Centre
+MACHAKOS,Kalama,Kalama L4 Hospital
+MACHAKOS,Kalama,Muumandu Health Centre
+MACHAKOS,Kalama,Kola Health Centre
+MACHAKOS,Kangundo,Kangundo L4 Hospital
+MACHAKOS,Kangundo,Kakuyuni Health Centre
+MACHAKOS,Kangundo,Kivaani Health Centre
+MACHAKOS,Kangundo,Ndunduni Dispensary
+MACHAKOS,Kangundo,Mukunike Community Hospital
+MACHAKOS,Machakos,Machakos L5 Hospital
+MACHAKOS,Machakos,Mutituni L4 Hospital
+MACHAKOS,Machakos,Bishop Kioko Catholic Hosp.
+MACHAKOS,Machakos,Ikulu Dispensary
+MACHAKOS,Machakos,Mua Dispensary
+MACHAKOS,Machakos,Approved Dispensary
+MACHAKOS,Masinga,Masinga L4 Hospital
+MACHAKOS,Masinga,Ndithini L4 Hospital
+MACHAKOS,Masinga,Mananja Health Centre
+MACHAKOS,Masinga,Kithyoko Health Centre
+MACHAKOS,Masinga,Kangonde Health Centre
+MACHAKOS,Masinga,Ekalakala Health Centre
+MACHAKOS,Masinga,Kathukini Dispensary
+MACHAKOS,Matungulu,Kimiti L4 Hospital
+MACHAKOS,Matungulu,Sengani Community Hospital
+MACHAKOS,Matungulu,Matungulu Health Centre
+MACHAKOS,Matungulu,Nguluni Health Centre
+MACHAKOS,Matungulu,Kyeleni Health Centre
+MACHAKOS,Matungulu,Donyo Sabuk Dispensary
+MACHAKOS,Mavoko,Mavoko L4 Hospital
+MACHAKOS,Mavoko,Kinanie Health Centre
+MACHAKOS,Mavoko,Mlolongo Health Centre
+MACHAKOS,Mavoko,Kyumbi Health Centre
+MACHAKOS,Mavoko,Katani Dispensary
+MACHAKOS,Mwala,Mwala L4 Hospital
+MACHAKOS,Mwala,Masii Health Centre
+MACHAKOS,Mwala,Katulani Health Centre
+MACHAKOS,Mwala,Wamunyu Health Centre
+MACHAKOS,Mwala,Mbiuni Health Centre
+MACHAKOS,Mwala,Muthetheni Health Centre
+MACHAKOS,Yatta,Matuu L4 Hospital
+MACHAKOS,Yatta,Katangi Health Center
+MACHAKOS,Yatta,Kisikii Dispensary
+MACHAKOS,Yatta,Ikombe Dispensary
+MACHAKOS,Yatta,Kithimani Dispensary
+MAKUENI,Kaiti,Mukuyuni Subcounty Hospital (Level IV)
+MAKUENI,Kaiti,Kilungu Subcounty Hospital (IV)
+MAKUENI,Kaiti,Kikoko Mission Hospital (IV)
+MAKUENI,Kibwezi East,Kibwezi Subcounty Hospital (IV)
+MAKUENI,Kibwezi East,Kambu Subcounty Hospital (IV)
+MAKUENI,Kibwezi East,Mtito Andei Subcounty Hospital (IV)
+MAKUENI,Kibwezi West,Makindu Subcounty Hospital (Level IV)
+MAKUENI,Kibwezi West,Kilome Nursing Home (IV)
+MAKUENI,Kibwezi West,Mulatya Memorial Hospital (IV)
+MAKUENI,Kilome,Sultan Hamud Subcounty Hospital (Level IV)
+MAKUENI,Makueni,Mutyambua Subcounty Hospital (Level IV)
+MAKUENI,Makueni,Matiliku Subcounty Hospital (Level IV)
+MAKUENI,Makueni,Makueni County Referral Hospital (Level V)
+MAKUENI,Makueni,Ralpha Hospital (IV)
+MAKUENI,Makueni,Royal Star Hospital (IV)
+MAKUENI,Mbooni,Tawa Subcounty Hospital (Level IV)
+MAKUENI,Mbooni,Mbooni Subcounty Hospital (Level IV)
+MAKUENI,Mbooni,Kisau Subcounty Hospital (Level IV)
+MANDERA,Banisa,Banisa sub county hospital
+MANDERA,Kutulo,Kutulo sub county hospital
+MANDERA,Lafey,Lafey sub county hospital
+MANDERA,Mandera East,Mandera county referral Hospital
+MANDERA,Mandera East,East sub county hospital
+MANDERA,Mandera North,Mandera North sub county hospital
+MANDERA,Mandera South,Mandera South sub county hospital
+MANDERA,Mandera West,Mandera West sub county hospital
+MARSABIT,Laisamis,Laisamis subcounty referral hospital
+MARSABIT,Laisamis,Laisamis mission hospital
+MARSABIT,Moyale,Moyale subcounty referral hospital
+MARSABIT,Moyale,mission hospital
+MARSABIT,Northhorr,Kalacha subcounty hospital
+MARSABIT,Saku,Marsabit county referral hospital
+MARSABIT,Saku,ISMC hospital
+MERU,Buuri,Timau SC Hospital
+MERU,Buuri,"St.Theresa Miss. Hosp, Kiirua"
+MERU,Igembe Central,Kangeta SC Hospital
+MERU,Igembe North,Mutuati SC Hospital
+MERU,Igembe South,Nyambene SC Hospital
+MERU,Igembe South,Maua Methodist Hospital
+MERU,Imenti South,Kanyakine SC Hospital
+MERU,Imenti South,Consolata Miss. Hospital
+MERU,Imenti South,Mikumbune SC Hospita
+MERU,Imenti South,Kinoro SC Hospital
+MERU,Imenti South,St Ann Miss. Hospital
+MERU,Imenti Central,Githongo SC Hospital
+MERU,Imenti Central,Cottolengo Miss. Hospital
+MERU,Imenti North,Meru County Hospital
+MERU,Imenti North,Giaki SC Hospital
+MERU,Tigania East,Muthara SC Hospital
+MERU,Tigania East,St. John of God Miss. Hospital
+MERU,Tigania East,Mikinduri SC Hospital
+MERU,Tigania West,Miathene SC Hospital
+MERU,Tigania West,Mbeu SC Hospital
+MIGORI,Awendo,Awendo Sub-County Hospital
+MIGORI,Awendo,Rapcom Hospital
+MIGORI,Awendo,Ulanda mission hospital
+MIGORI,Kuria East,Kegonga Sub-County Hospital
+MIGORI,Kuria East,Ntimaru Sub-County Hospital
+MIGORI,Kuria West,Isebania Sub-County Hospital
+MIGORI,Kuria West,Kehancha Sub-County Hospital
+MIGORI,Kuria West,Samjomen Hospital
+MIGORI,Nyatike,Macalder Sub-County Hospital
+MIGORI,Nyatike,Karungu Sub-County Hospital
+MIGORI,Nyatike,Muhuru Sub-County Hospital
+MIGORI,Nyatike,St. Camillus Sori
+MIGORI,Nyatike,Sori Lakeside Hospital
+MIGORI,RONGO,Rongo Sub-County Hospital
+MIGORI,Rongo,Royal Hospital
+MIGORI,Rongo,Lwala Community Hospital
+MIGORI,Suna East,Migori County Referral Hospital
+MIGORI,Suna East,St. Joseph's Mission
+MIGORI,Suna East,Ogwedhi Health Centre
+MIGORI,Suna East,Nyarongi Dispensary
+MIGORI,Suna West,Nyamaraga Sub-County Hospital
+MIGORI,Suna West,Akidiva Memorial Hospital
+MIGORI,Suna West,Pastor Machaje Hospital
+MIGORI,Uriri,Uriri Sub-County Hospital
+MIGORI,Uriri,Oyani Sub-County Hospital
+MIGORI,Uriri,Othoro Sub-County Hospital
+MOMBASA,Changamwe,Portreitz Sub County Hospital
+MOMBASA,Kisauni,Jocham Hospital
+MOMBASA,Kisauni,Shimo La Tewa Main Health Centre
+MOMBASA,Likoni,Likoni Sub County Hospital
+MOMBASA,Mvita,Coast General Teaching and Referal Hospiital
+MOMBASA,Mvita,Tudor Sub County Hospital
+MOMBASA,Mvita,Aga Hkan Hospital Mombasa
+MOMBASA,Mvita,Pandya Memorial Hospital
+MOMBASA,Mvita,Mombasa Hospital
+MOMBASA,Mvita,Kaderbuoy Dispensary
+MOMBASA,Mvita,Tudor Sub County Hospital
+MOMBASA,Mvita,KPA Clinic
+MOMBASA,Nyali,Premiere Hospital
+MURANG'A,Gatanga,Kirwara Sub County Hospital
+MURANG'A,Gatanga,Ithanga Health Centre
+MURANG'A,Kandara,Kandara Sub County Hospital
+MURANG'A,Kandara,Githumu Hospital
+MURANG'A,Kandara,Gaichanjiru Hospital
+MURANG'A,Kangema,Kangema Sub County Hospital
+MURANG'A,Kigumo,Kigumo Sub County Hospital
+MURANG'A,Kiharu,Murang'a County Referral Hospital
+MURANG'A,Kiharu,Muriranjas Sub County Hospital
+MURANG'A,Kiharu,Family Heritage Hospital
+MURANG'A,Mathioya,Kiria-ini Mission Hospital
+MURANG'A,Mathioya,Nyakianga Health Centre
+MURANG'A,Murang'a South,Maragua Sub County Hospital
+MURANG'A,Murang'a South,Kenol Hospital
+NAIROBI,Dagoretti,Kenyatta National Hospital
+NAIROBI,Dagoretti North,Nairobi Hospital
+NAIROBI,Dagoretti North,Nairobi Women Hurlingham
+NAIROBI,Dagoretti North,University of Nairobi
+NAIROBI,Dagoretti North,Medanta
+NAIROBI,Dagoretti North,Riruta H/C
+NAIROBI,Dagoretti North,Coptic Hospital
+NAIROBI,Dagoretti South,Waithaka H/C
+NAIROBI,Dagoretti South,Mutuini Sub-District Hospital
+NAIROBI,Embakasi Central,Kayole 2 H/C
+NAIROBI,Embakasi East,JKIA Port Health
+NAIROBI,Embakasi East,Komarock Modern
+NAIROBI,Embakasi East,Umoja H/C
+NAIROBI,Embakasi East,Embakasi H/C
+NAIROBI,Embakasi North,Dandora 1 HC
+NAIROBI,Embakasi South,Mukuru H/C
+NAIROBI,Embakasi West,Mama Lucy Kibaki Hospital
+NAIROBI,Kamukunji,Eastleigh Hospital
+NAIROBI,Kamukunji,Shauri Moyo H/C
+NAIROBI,Kamukunji,Joy Nursing Home
+NAIROBI,Kamukunji,Pumwani Hospital
+NAIROBI,Kasarani,Kasarani H/C
+NAIROBI,Kasarani,Ruai Family Hospital
+NAIROBI,Kasarani,St. Francis Hospital
+NAIROBI,Kibra,Kibera DO H/C
+NAIROBI,Kibra,Kibera AMREF
+NAIROBI,Kibra,Mbagathi Hospital
+NAIROBI,Lang'ata,Lang'ata H/C
+NAIROBI,Lang'ata,Nairobi South Hospital
+NAIROBI,Lang'ata,Nairobi West Hospital
+NAIROBI,Lang'ata,Karen Hospital
+NAIROBI,Lang'ata,St. Mary Mission Hospital
+NAIROBI,Makadara,Makadara H/C
+NAIROBI,Makadara,Lunga Lunga H/C
+NAIROBI,Makadara,Metropolitan
+NAIROBI,Makadara,Jamaa Hospital
+NAIROBI,Mathare,Huruma Lions H/C
+NAIROBI,Mathare,NCCK Jumuia
+NAIROBI,Roysambu,Kahawa H/C
+NAIROBI,Ruaraka,Mathare North H/C
+NAIROBI,Ruaraka,Baba Dogo H/C
+NAIROBI,Ruaraka,KU Referral Hospital
+NAIROBI,Ruaraka,Uhai Neema Hospital
+NAIROBI,Starehe,Remand Health Centre
+NAIROBI,Starehe,Ngara H/C
+NAIROBI,Starehe,Guru Nanak
+NAIROBI,Starehe,Mathare Teachung and referral Hospital
+NAIROBI,Starehe,Mater Hospital
+NAIROBI,Westlands,Westlands H/C
+NAIROBI,Westlands,Mediheal Hospial
+NAIROBI,Westlands,Agakhan Hospital
+NAIROBI,Westlands,MP Shah Hospital
+NAIROBI,Westlands,Avenue Hospital
+NAIROBI,Westlands,Gertrudes Hospital
+NAIROBI,Westlands,Kangemi H/C
+NAKURU,Gilgil,St. Joseph RiftValley Hospital
+NAKURU,Gilgil,Kiptangwany
+NAKURU,Gilgil,NYS Gilgil
+NAKURU,Gilgil,Gilgil Sub County Hospital
+NAKURU,Gilgil,Anti Stock Theft Unit
+NAKURU,Kuresoi North,Kuresoi H/C
+NAKURU,Kuresoi North,"ST .joseph hosp,Molo"
+NAKURU,Kuresoi North,Kamwaura
+NAKURU,Kuresoi North,Total Disp
+NAKURU,Kuresoi South,Olenguruone Sub-District Hospital
+NAKURU,Kuresoi South,Keringet Sub County Hospital
+NAKURU,Kuresoi South,Kiptagich h/c
+NAKURU,Molo,Elburgon Sub-District Hospital
+NAKURU,Molo,Marishoni H/C
+NAKURU,Molo,Molo District Hospital
+NAKURU,Naivasha,Naivasha District Hospital
+NAKURU,Naivasha,Maimahiu
+NAKURU,Naivasha,Karagita
+NAKURU,Naivasha,Maella
+NAKURU,Naivasha,prisons annex
+NAKURU,Naivasha,NYS Naivasha
+NAKURU,Naivasha,The Karen Hospital Limited(Naivasha)
+NAKURU,Naivasha,Polyclinic Hospital
+NAKURU,Nakuru East,Mirugi Kariuki Sub County Hospital
+NAKURU,Nakuru East,Bondeni CLINIC
+NAKURU,Nakuru East,Langa Langa Hospital
+NAKURU,Nakuru East,Nakuru Nursing Home
+NAKURU,Nakuru East,Nairobi Women hospital - Nakuru CBD
+NAKURU,Nakuru East,Optimum Current Health Care Hospital
+NAKURU,Nakuru East,Mercy Mission Hospital - Annex Nakuru
+NAKURU,Nakuru East,Mediheal Hospital Nakuru
+NAKURU,Nakuru East,Valley Hospital
+NAKURU,Nakuru East,"St,Elizabeth"
+NAKURU,Nakuru East,Baraka Maternity Home
+NAKURU,Nakuru East,Nakuru specialist hosp
+NAKURU,Nakuru North,Bahati District Hospital
+NAKURU,Nakuru North,Engashura
+NAKURU,Nakuru West,KMTC Nakuru
+NAKURU,Nakuru West,Sunrise Evans Hospital
+NAKURU,Nakuru West,Nakuru War Memorial Hospital
+NAKURU,Nakuru West,Nakuru Provincial General Hospital
+NAKURU,Nakuru west,Joyellen
+NAKURU,Nakuru West,Annex Hospital (Nakuru)
+NAKURU,NAKURUWEST,GK Prisons NAKURU
+NAKURU,Njoro,Njoro Subcounty Hospital
+NAKURU,Njoro,Egerton University
+NAKURU,Njoro,Newpoint health services
+NAKURU,Njoro,Mau Narok
+NAKURU,Rongai,Rongai H/C
+NAKURU,Rongai,Soin sub county hospital
+NAKURU,Subukia,Kabazi Sub County Hospital
+NAKURU,Subukia,Upper Solai
+NAKURU,Subukia,Subukia Sub County Hospital
+NANDI,Aldai Subcounty,Kaptumo Sub County Hospital
+NANDI,Chesumei Subcounty,Mosoriot Sub county Hospital
+NANDI,Emgwen Subcounty,Kapsabet County Referral Hospita;
+NANDI,Mosop subcounty,Kabiyet Sub county Hospital
+NANDI,Mosop subcounty,Chepterwai Subcounty Hospital
+NANDI,Nandi Hills Subcounty,Nandi Hills Hospital
+NANDI,Tindiret Sub county,Meteitei Hospital
+NAROK,Narok North,Narok County Referral
+NAROK,Trans Mara West,Trans Mara West Sub County Hospital
+NYAMIRA,Borabu,Kijauri Sub County Hospital
+NYAMIRA,Borabu,Nyansiongo Nursing Home
+NYAMIRA,Borabu,Amatierio Health Centre
+NYAMIRA,Borabu,St. Joseph Nyansiongo Health Centre
+NYAMIRA,Borabu,Kineni Dispensary
+NYAMIRA,Manga,Manga District Hospital
+NYAMIRA,Manga,Holsoms Nursing Home
+NYAMIRA,Manga,Nyangena Sub District Hospital (Manga)
+NYAMIRA,Manga,Getare Health Centre
+NYAMIRA,Masaba North,Esani Sub-District Hospital
+NYAMIRA,Masaba North,Gesima Sub-County Hospital
+NYAMIRA,Masaba North,Masaba District Hospital
+NYAMIRA,Masaba North,Magombo Health Centre
+NYAMIRA,Nyamira South,Nyamira County Refferal Hospital
+NYAMIRA,Nyamira South,Oasis Maternity and Nursing Home
+NYAMIRA,Nyamira South,Kinara Hospital
+NYAMIRA,Nyamira South,Ting'a Health Centre
+NYAMIRA,Nyamira South,Nyamaiya Health Centre
+NYAMIRA,Nyamira South,Nyamusi Sub-District Hospital
+NYAMIRA,Nyamira South,Ekerenyo Sub-District Hospital
+NYAMIRA,Nyamira South,Magwagwa Health Centre
+NYANDARUA,Kinangop,JM Kariuki County Referral Hospital
+NYANDARUA,Kinangop,Engineer County Hospital
+NYANDARUA,Kinangop,The Pine Hospital
+NYANDARUA,Kinangop,Bamboo Health Centre
+NYANDARUA,Kinangop,Murungaru Health Centre
+NYANDARUA,Kinangop,Old Mawingu Health Centre
+NYANDARUA,Kinangop,Karangatha Health Centre
+NYANDARUA,Kinangop,Kahembe Health Centre
+NYANDARUA,Kinangop,Kiambogo Dispensary
+NYANDARUA,Kinangop,Kaptain Dispensary
+NYANDARUA,Kinangop,Nandarasi Dispensary
+NYANDARUA,Kinangop,Olbolosat Dispensary
+NYANDARUA,Kinangop,Mikaro Dispensary
+NYANDARUA,Kipipiri,Njabini Health Centre
+NYANDARUA,Kipipiri,Manunga Health Centre
+NYANDARUA,Kipipiri,Silibwet Health Centre
+NYANDARUA,Kipipiri,Wanjohi Health Centre
+NYANDARUA,Kipipiri,Kaimbaga Health Centre
+NYANDARUA,Kipipiri,Kianjogu Dispensary
+NYANDARUA,Kipipiri,Kamiruri Dispensary
+NYANDARUA,Ndaragwa,Ngano Health Centre
+NYANDARUA,Ndaragwa,Ndaragwa Health Centre
+NYANDARUA,Ndaragwa,Shamata Health Centre
+NYANDARUA,Ndaragwa,Chamuka Dispensary
+NYANDARUA,Ndaragwa,Heni Health Centre
+NYANDARUA,Ndaragwa,Subuku Health centre
+NYANDARUA,Ndaragwa,Gatimu Health centre
+NYANDARUA,Ndaragwa,New Mawingu Health Centre
+NYANDARUA,Ndaragwa,Kiriogo Dispensary
+NYANDARUA,Ndaragwa,Kirima Dispensary
+NYANDARUA,Ndaragwa,Ndivai Dispensary
+NYANDARUA,Ndaragwa,Rwanyambo Dispensary
+NYANDARUA,Ndaragwa,Mbuyu Dispensary
+NYANDARUA,Oljoroorok,Baari Health Centre
+NYANDARUA,Oljoroorok,LeshauPondo Health centre
+NYANDARUA,Oljoroorok,Turasha Dispensary
+NYANDARUA,Oljororok,Ngorika Health Centre
+NYANDARUA,Oljororok,Kasuku Health Centre
+NYANDARUA,Oljororok,Haraka Dispensary
+NYANDARUA,Olkalou,North Kinangop Catholic Hospital
+NYANDARUA,Olkalou,Geta Bush Health Centre
+NYANDARUA,Olkalou,MirangineHealth Centre
+NYANDARUA,Olkalou,Weru Health Centre
+NYANDARUA,Olkalou,Ndemi Health Centre
+NYANDARUA,Olkalou,Ndunyu njeru Dispensary
+NYERI,Kieni East,Narumoru health centre
+NYERI,Kieni East,Island Farm HC
+NYERI,Kieni East,Warazo HC
+NYERI,Kieni East,Karemeno HC
+NYERI,Kieni West,Mweiga health centre
+NYERI,Kieni West,Bellevue Health Centre
+NYERI,Kieni West,Endarasha HC
+NYERI,Mathira East,Karatina hosp
+NYERI,Mathira East,Karindundu Dispessry
+NYERI,Mathira West,PCEA Tumutumu hosp
+NYERI,Mathira West,Ngorano Health Centre
+NYERI,Mathira West,Kaiyaba Dispensary
+NYERI,Mukurweini,Mukurweini hosp
+NYERI,Mukurweini,Mweru Health Centre
+NYERI,Mukurweini,Thangathi HC
+NYERI,Nyeri Central,Consolata Mathari hosp
+NYERI,Nyeri Central,Outspan Hospital
+NYERI,Nyeri Central,Mt Kenya hosp
+NYERI,Nyeri Central,Kiganjo Health centre
+NYERI,Nyeri Central,Nyeri Town Health Centre
+NYERI,Nyeri South,Othaya level 6 hosp
+NYERI,Nyeri South,Othaya level IV hosp
+NYERI,Nyeri South,Gichiche HC
+NYERI,Tetu,Wamagana Health Centre
+NYERI,Tetu,Ihururu HC
+NYERI,Tetu,Gichira HC
+SAMBURU,Samburu central,Samburu county referral hospital
+SAMBURU,Samburu East,Wamba Health Center
+SAMBURU,Samburu East,Archers Post Sub county Hospital
+SAMBURU,Samburu North,"Baragoi Sub county hospital,"
+SIAYA COUNTY,Alego Usonga Sub County,Rwambwa Sub County Hospital
+SIAYA COUNTY,Bondo Sub County,Got Agulu Sub County Hospital
+SIAYA COUNTY,Gem Sub County,Sagam Hospital
+SIAYA COUNTY,Rarieda Sub County,Madiany Sub County Hospital
+SIAYA COUNTY,Ugunja Sub County,Ambira- Sub County Hospital
+SIAYA COUNTY,Alego Usonga sub County,Siaya ounty Referral Hospital
+SIAYA COUNTY,Bondo Sub County,Bondo Sub County Hospital
+SIAYA COUNTY,Bonds Sub County,Uyawi Sub County Hospital
+SIAYA COUNTY,Gem Sub County,Yala Sub County Hospital
+SIAYA COUNTY,Gem Sub County,Inuka hospital
+SIAYA COUNTY,Rarieda Sub County,Lwak Mission H/C
+SIAYA COUNTY,Ugenya Sub County,Ukwala Sub County Hospital
+SIAYA COUNTY,Ugunja Sub County,Sigomere Sub County Hospital
+TAITA TAVETA,Mwatate,Mwatate Sub County Hoapital
+TAITA TAVETA,Taita Wundanyi,Wundanyi Health Centre
+TAITA TAVETA,Taita/Wundanyi,Wesu Sub County Hospital
+TAITA TAVETA,Taveta,Taveta Sub County Hospital
+TAITA TAVETA,Voi,Moi County Refferral Hospotal
+"TANA RIVER
+COUNTY",Tana Delta sub County,Hola county Referral Hospital
+"TANA RIVER
+COUNTY",Tana Delta sub County,Ngao sub county hospital
+"TANA RIVER
+COUNTY",Tana North sub county,Bura Sub County hospital
+THARAKA NITHI,Chuka,Chuka county referral hospital
+THARAKA NITHI,Igambang’ombe,Komarock Morden Hospital
+THARAKA NITHI,Igambang’ombe,Kajuki Hospital
+THARAKA NITHI,Muthambi,Muthambi Health Centre
+THARAKA NITHI,Mwimbi,PCEA Chogoria hospital
+THARAKA NITHI,Mwimbi,Magutuni Hospital
+THARAKA NITHI,Tharaka North,Gatunga Model Health centre
+THARAKA NITHI,Tharaka South,Marimanti Hospital
+THARAKA NITHI,Tharaka South,Kibung’a Hospital
+THARAKA NITHI,Tharaka south,St. Orsola Hospital
+TRANS NZOIA,cherangany Subcounty,Kapsara subcounty hospital
+TRANS NZOIA,Cherangany Subcounty,Cherangany Subcounty hospital
+TRANS NZOIA,cherangany Subcounty,Kaplamai health center
+TRANS NZOIA,Endebbess subcount,Endebbess subcounty hospital
+TRANS NZOIA,Kiminini subcounty,Matunda subcounty hospital
+TRANS NZOIA,Kiminini subcounty,Kitale County referral hospital
+TRANS NZOIA,kwanza subcounty,Kwanza subcounty hospital
+TRANS NZOIA,kwanza subcounty,Kapsitwet Health Centre
+TRANS NZOIA,kwanza subcounty,Kapkoi Health Centre
+TRANS NZOIA,Saboti subcounty,Saboti subcounty hosp
+TRANS NZOIA,Saboti Subcounty,GK farm prison health center
+TRANS NZOIA,Saboti Subcounty,Bondeni health center
+TRANS NZOIA,Saboti Subcounty,Lukhome health center
+TRANS NZOIA,Saboti Subcounty,Tom mboya health center
+TURKANA,Kibish,Kaikor Sub County Hospital
+TURKANA,Loima,Lorugum Sub County Hospital
+TURKANA,Turkana Central,Lodwar County Referral Hospital
+TURKANA,Turkana Central,Kanamkemer Sub County Hospital
+TURKANA,Turkana East,Lokori Sub County Hospital
+TURKANA,Turkana East,Elelea Sub County Hospital
+TURKANA,Turkana East,Kapedo Sub County Hospital
+TURKANA,Turkana North,Lokitaung Sub County Hospital
+TURKANA,Turkana South,Katilu Sub County Hospital
+TURKANA,Turkana West,Ammusait General Hospital
+TURKANA,Turkana West,Kakuma Mission Hospital
+TURKANA,Turkana West,Kakuma Sub County Hospital
+TURKANA,Turkana West,Lopiding Sub County Hospital
+TURKANA,Turkana South,Lokichar Sub County Hospital
+UASIN GISHU,Ainabkoi,Moi Teaching and Referral Hospital
+UASIN GISHU,Ainabkoi,Eldoret Hospital
+UASIN GISHU,Ainabkoi,Mediheal Hospital
+UASIN GISHU,Ainabkoi,Kapsoya Health Centre
+UASIN GISHU,Ainabkoi,Burnt Forest Sub-County Hospital
+UASIN GISHU,Kapseret,Kapteldon Sub-County Hospital
+UASIN GISHU,Kapseret,Kaplelach Chepyakwai Hospital
+UASIN GISHU,Kesses,Chepkigen Dispensary
+UASIN GISHU,Kesses,Kesses Sub-County Hospital
+UASIN GISHU,Moiben,Moiben Sub-County Hospital
+UASIN GISHU,Moiben,Kimumu Dispensary
+UASIN GISHU,Moiben,Uasin Gishu District Hospital
+UASIN GISHU,Soy,Moi's Bridge Health Centre
+UASIN GISHU,Soy,Ziwa Sub-County Hospital
+UASIN GISHU,Turbo,Huruma Sub-County Hospital
+UASIN GISHU,Turbo,Turbo Sub-County Hospital
+VIHIGA,Emuhaya,Emusire Health Centre
+VIHIGA,Emuhaya,Ebusiratsi Health Centre
+VIHIGA,Hamisi,Hamisi Sub-County Hospital
+VIHIGA,Hamisi,Jumuiya Hospital Kaimosi
+VIHIGA,Hamisi,Serem Health Centre
+VIHIGA,Hamisi,Shiru Health Centre
+VIHIGA,Luanda,Emuhaya Sub-County Hospital
+VIHIGA,Luanda,Coptic Nursing Home Maseno
+VIHIGA,Luanda,Luanda township
+VIHIGA,Luanda,Ekwanda Health Centre
+VIHIGA,Sabatia,Sabatia health Centre
+VIHIGA,Sabatia,Itando Nursing Home
+VIHIGA,Sabatia,Kegondi
+VIHIGA,Sabatia,Bugina
+VIHIGA,Vihiga,Vihiga County Referral Hospital
+WAJIR,Eldas Sub county,Eldas Sub county hospital
+WAJIR,Tarbaj sub county,Tarbaj sub county hospital
+WAJIR,Wajir,Wajir referral hospital
+WAJIR,Wajir North sub county,Wajir North sub county hospital
+WAJIR,Wajir South sub county,Wajir South sub county hospital
+WAJIR,Wajir west sub county,Wajir west sub county hospital
+WEST POKOT,pokot central,Sigor sub county hospital
+WEST POKOT,Pokot North,Kacheliba subcounty hospital
+WEST POKOT,Pokot North,Alale Health Centre
+WEST POKOT,Pokot South,Kapenguria county referral hospital
+WEST POKOT,Pokot South,Chepareria sub county hospital
+WEST POKOT,Pokot South,Ortum mission hospital
+WEST POKOT,Pokot South,Kabichbich Health Centre
