@@ -1,10 +1,10 @@
 [
     {
-        "q": "What does COVID-19 standfor?",
-        "a": "COVID-19 stands for Coronavirus disease of 2019. It is the official name given by the World Health Organization (WHO) to the disease caused by the novel coronavirus SARS-CoV2. The novel coronavirus SARS-CoV2 is a new coronavirus not previously seen in humans. This means it is different from the coronaviruses that cause the common cold and those that caused SARS in 2002 and MERS in 2012. The first cases of the novel coronavirus SARS-CoV2 were reported in December 2019. WHO officially named the disease COVID-19 in a press release issued on 11th February 2020."
+        "q": "What does COVID-19 stand for?",
+        "a": "COVID-19 stands for Coronavirus disease of 2019. \n It is the official name given by the World Health Organization (WHO) to the disease caused by the novel coronavirus SARS-CoV2. The novel coronavirus SARS-CoV2 is a new coronavirus not previously seen in humans. This means it is different from the coronaviruses that cause the common cold and those that caused SARS in 2002 and MERS in 2012. The first cases of the novel coronavirus SARS-CoV2 were reported in December 2019. WHO officially named the disease COVID-19 in a press release issued on 11th February 2020."
     },
     {
-        "q": "Is COVID-19 the same as thecommon cold?",
+        "q": "Is COVID-19 the same as the common cold?",
         "a": "No.  COVID-19  and  common  cold  are  not  the  same. COVID-19 is caused by the novel coronavirus SARS-CoV2 not previously seen in humans. Colds and flus are caused by different types of viruses common to humans.  Unlike the flu, COVID-19 can sometimes cause a person to suddenly lose their sense of smell or taste.    The number of those who are likely to be severely ill or die as a result of contracting COVID-19 is up to 10 times higher for COVID-19 than for the common cold or flu."
     },
     {
@@ -16,7 +16,7 @@
         "a": "The  Government  of  Kenya  is  committed  to  fully vaccinating the entire population of adults (18 years and above) living in Kenya by June 2022.     The COVID-19 vaccine is being deployed in 3 phases.  The phases are not exclusive and may overlap.     Phase 1: This kicked off in March 2021 and targeted those working in the frontline of COVID-19 response.  This  included;  healthcare  workers;  teaching  and nonteaching staff in all educational institutions; uniformed Officers  -  Police,  Military,  Prison  Officers;  Immigration Officers; Instructors in Religious Institutions and people aged 58 years and above.     Phase 2: This is ongoing and targets frontline workers and adults  aged  18  years  and  above  especially  those  with comorbidities.    Phase 3:  This will target all adults aged 18 years and above.  Those  with  underlying  health  conditions  are  highly encouraged to get vaccinated."
     },
     {
-        "q": "When can I expect to receivemy COVID-19 vaccine?",
+        "q": "When can I expect to receive my COVID-19 vaccine?",
         "a": "The Government of Kenya rolled out vaccination of the 1stdose of the AstraZeneca/Covishield vaccine in March 2021.  The Government wants to ensure all persons who got the 1st dose get the 2nd dose in order to increase the number of fully vaccinated Kenyans in the country.     The government has also opened up Covid 19 vaccination for those who want to get the first dose of Covid-19 vaccine and meet the eligibility criteria."
     },
     {
