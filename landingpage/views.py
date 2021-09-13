@@ -23,7 +23,8 @@ class LandingPage(View):
     @csrf_exempt
     def post(self, request):
         self.template_name = 'landingpage/result.html'
-        places = VaccineCenter.objects.exclude(Q(location__isnull=True) | Q(location=''))
+        places = VaccineCenter.objects.exclude(
+            Q(location__isnull=True) | Q(location=''))
         locs = []
         for place in places:
             loc = place.location
