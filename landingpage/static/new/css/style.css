@@ -1169,17 +1169,19 @@ section {
   background: #fff;
   border-radius: 4px;
   position: relative;
+  list-style: none;
 }
 
 .faq .faq-list a {
   display: block;
   position: relative;
   font-family: "Poppins", sans-serif;
-  font-size: 16px;
+  font-size: 17px;
   line-height: 24px;
   font-weight: 500;
-  padding: 0 30px;
+  /* padding: 0 0px; */
   outline: none;
+  color: #000000d1;
 }
 
 .faq .faq-list .icon-help {
@@ -1208,9 +1210,15 @@ section {
 }
 
 .faq .faq-list a.collapsed {
-  color: #343a40;
+  color: #111;
 }
 
+.faq .faq-list a.collapsed:hover {
+  color: #2487ce;
+}
+.faq .faq-list a.collapse:hover {
+  color: #2487ce;
+}
 .faq .faq-list a.collapsed:hover {
   color: #2487ce;
 }
