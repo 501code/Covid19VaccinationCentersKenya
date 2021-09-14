@@ -37,9 +37,9 @@ class VaccineCenter(TimeStampedModel):
         ARMED_FORCES = ChoiceItem("armed_forces", "Armed Forces")
     name = models.CharField(max_length=555, blank=False, null=False)
     sub_county = models.ForeignKey(SubCounty, blank=True, null=True, on_delete=models.CASCADE)
-    mfl = models.CharField(max_length=255, blank=False, null=False)
+    mfl = models.CharField(max_length=255, blank=True, null=True)
     ownership = models.CharField(choices=Ownerships.choices, default=Ownerships.PUBLIC,
-                                 max_length=50, blank=False, null=False)
+                                 max_length=50, blank=True, null=True)
     location = PlainLocationField(based_fields=['city'], zoom=7, blank=True, null=True)
 
     class Meta:

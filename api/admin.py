@@ -11,7 +11,7 @@ admin.site.register(VaccineCenter, VaccineCentersAdmin)
 
 
 class CountiesAdmin(admin.ModelAdmin):
-    pass
+    list_display = ('name', 'location')
 
 
 admin.site.register(County, CountiesAdmin)
