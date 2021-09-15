@@ -4,18 +4,16 @@
 
         <div class="section-title">
             <h2>News</h2>
-            <p>Find latest news here</p>
+            <p>Latest vaccine news</p>
         </div>
 
         <ul class="list-group list-group-flush news-items">
+            {% for article in news %}
             <li class="list-group-item">
-                <h5>News title - <small class="text-right">04-06-2021</small> </h5>
-                Some news item <a href="#some-link">details</a>
+                <h5>{{ article.title }} - <small class="text-right">{{ article.created }}</small></h5>
+                <a href="{{ article.link }}" target="_blank">{{ article.excerpt }}</a>
             </li>
-            <li class="list-group-item">
-                <h5>Title 2 - <small class="text-right">04-06-2021</small></h5>
-                Some news item 2 <a href="#some-link">details</a>
-            </li>
+            {% endfor %}
         </ul>
     </div>
 </section>

@@ -8,14 +8,16 @@ from django.template import loader
 from django.views import View
 from django.views.decorators.csrf import csrf_exempt
 
-from api.models import VaccineCenter
+from api.models import VaccineCenter, News
 
 
 class LandingPage(View):
     def __init__(self):
         self.template_name = 'landingpage/locate.html'
+        news = News.objects.all()[:5]
         self.context = {
             'GOOGLE_MAPS_API_KEY': settings.GOOGLE_MAPS_API_KEY,
+            'news': news
         }
         super().__init__()
 

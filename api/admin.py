@@ -1,6 +1,6 @@
 from django.contrib import admin
 
-from api.models import VaccineCenter, County,SubCounty
+from api.models import VaccineCenter, County, SubCounty, News
 
 
 class VaccineCentersAdmin(admin.ModelAdmin):
@@ -22,3 +22,9 @@ class SubCountyAdmin(admin.ModelAdmin):
 
 
 admin.site.register(SubCounty, SubCountyAdmin)
+
+
+class NewsAdmin(admin.ModelAdmin):
+    pass
+
+admin.site.register(News, NewsAdmin)
