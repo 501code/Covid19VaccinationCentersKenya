@@ -9,7 +9,7 @@ def find_closest_facilities(origin):
     for facility in facilities:
         loc = facility.location.split(",")
         distance = (float(loc[0]) - origin[0])**2 + (float(loc[1]) - origin[1])**2
-        facilities_distances.update({distance: facility.name})
+        facilities_distances.update({distance: facility})
     facilities_distances = collections.OrderedDict(sorted(facilities_distances.items()))
     closest_facilities = dict(itertools.islice(facilities_distances.items(), 10))
-    return closest_facilities
+    return [facility for distance, facility in closest_facilities.items()]

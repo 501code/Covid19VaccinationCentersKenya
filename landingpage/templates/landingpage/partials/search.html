@@ -16,9 +16,16 @@
                 </form>
             </div>
         </div>
-        <!-- <div class="text-center">
-            <a href="#" onclick="search()" class="btn-get-started scrollto">Search</a>
-        </div> -->
+        <ul class="list-group list-group-flush news-items">
+            {% for facility in facilities %}
+            <li class="list-group-item">
+                <h5>{{ facility.name }}
+                <a class="float:right" href="http://www.google.com/maps/place/{{facility.location}}" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2642/PNG/512/google_map_location_logo_icon_159350.png" width="25px"></i></a>
+                </h5>
+                {{ facility.sub_county }}
+            </li>
+            {% endfor %}
+        </ul>
     </div>
 </section>
 
