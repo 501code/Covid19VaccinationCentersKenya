@@ -53,40 +53,23 @@ BUSIA,Teso North,Ang'urai Health Centre
 BUSIA,Teso North,Malaba Health Centre
 BUSIA,Teso South,Amukura Hospital
 BUSIA,Teso South,Alupe Isolation Centre Hospital
-"ELGEYO
-MARAKWET",Keiyo North,Tambach Sub-County Hospital
-"ELGEYO
-MARAKWET",Keiyo North,Chegilet Health Centre
-"ELGEYO
-MARAKWET",Keiyo North,Iten County Referral Hospital
-"ELGEYO
-MARAKWET",Keiyo South,Kamwosor Sub-County Hospital
-"ELGEYO
-MARAKWET",Keiyo South,Kocholwo Sub-County Hospital
-"ELGEYO
-MARAKWET",Keiyo South,Kaptarakwa Sub-County Hospital
-"ELGEYO
-MARAKWET",Keiyo South,Chepkorio H/C (Sub-County DVI store)
-"ELGEYO
-MARAKWET",Keiyo south,Muskut Health Center
-"ELGEYO
-MARAKWET",Keiyo south,Flourspar Health Center
-"ELGEYO
-MARAKWET",Keiyo south,Biretwo Health Center
-"ELGEYO
-MARAKWET",Marakwet East,Chesoi H/C (Sub-County DVI store)
-"ELGEYO
-MARAKWET",Marakwet East,Tot Sub-County Hospital
-"ELGEYO
-MARAKWET",Marakwet East,Kapyego Health Centre
-"ELGEYO
-MARAKWET",Marakwet West,Chebiemit Sub-County Hospital
-"ELGEYO
-MARAKWET",Marakwet West,AIC Kapsowar Hospital
-"ELGEYO
-MARAKWET",Marakwet West,Kapcherop Health Centre
-"ELGEYO
-MARAKWET",Marakwet West,Arror Health Centre
+ELGEYO MARAKWET,Keiyo North,Tambach Sub-County Hospital
+ELGEYO MARAKWET,Keiyo North,Chegilet Health Centre
+ELGEYO MARAKWET,Keiyo North,Iten County Referral Hospital
+ELGEYO MARAKWET,Keiyo South,Kamwosor Sub-County Hospital
+ELGEYO MARAKWET,Keiyo South,Kocholwo Sub-County Hospital
+ELGEYO MARAKWET,Keiyo South,Kaptarakwa Sub-County Hospital
+ELGEYO MARAKWET,Keiyo South,Chepkorio H/C (Sub-County DVI store)
+ELGEYO MARAKWET,Keiyo south,Muskut Health Center
+ELGEYO MARAKWET,Keiyo south,Flourspar Health Center
+ELGEYO MARAKWET,Keiyo south,Biretwo Health Center
+ELGEYO MARAKWET,Marakwet East,Chesoi H/C (Sub-County DVI store)
+ELGEYO MARAKWET,Marakwet East,Tot Sub-County Hospital
+ELGEYO MARAKWET,Marakwet East,Kapyego Health Centre
+ELGEYO MARAKWET,Marakwet West,Chebiemit Sub-County Hospital
+ELGEYO MARAKWET,Marakwet West,AIC Kapsowar Hospital
+ELGEYO MARAKWET,Marakwet West,Kapcherop Health Centre
+ELGEYO MARAKWET,Marakwet West,Arror Health Centre
 EMBU,Manyatta,Embu level 5 Hospital
 EMBU,Manyatta,Kairuri health centre
 EMBU,Manyatta,Embu G.K prison Majimbo
@@ -497,20 +480,20 @@ MOMBASA,Mvita,Kaderbuoy Dispensary
 MOMBASA,Mvita,Tudor Sub County Hospital
 MOMBASA,Mvita,KPA Clinic
 MOMBASA,Nyali,Premiere Hospital
-MURANG'A,Gatanga,Kirwara Sub County Hospital
-MURANG'A,Gatanga,Ithanga Health Centre
-MURANG'A,Kandara,Kandara Sub County Hospital
-MURANG'A,Kandara,Githumu Hospital
-MURANG'A,Kandara,Gaichanjiru Hospital
-MURANG'A,Kangema,Kangema Sub County Hospital
-MURANG'A,Kigumo,Kigumo Sub County Hospital
-MURANG'A,Kiharu,Murang'a County Referral Hospital
-MURANG'A,Kiharu,Muriranjas Sub County Hospital
-MURANG'A,Kiharu,Family Heritage Hospital
-MURANG'A,Mathioya,Kiria-ini Mission Hospital
-MURANG'A,Mathioya,Nyakianga Health Centre
-MURANG'A,Murang'a South,Maragua Sub County Hospital
-MURANG'A,Murang'a South,Kenol Hospital
+MURANGA,Gatanga,Kirwara Sub County Hospital
+MURANGA,Gatanga,Ithanga Health Centre
+MURANGA,Kandara,Kandara Sub County Hospital
+MURANGA,Kandara,Githumu Hospital
+MURANGA,Kandara,Gaichanjiru Hospital
+MURANGA,Kangema,Kangema Sub County Hospital
+MURANGA,Kigumo,Kigumo Sub County Hospital
+MURANGA,Kiharu,MURANGA County Referral Hospital
+MURANGA,Kiharu,Muriranjas Sub County Hospital
+MURANGA,Kiharu,Family Heritage Hospital
+MURANGA,Mathioya,Kiria-ini Mission Hospital
+MURANGA,Mathioya,Nyakianga Health Centre
+MURANGA,MURANGA South,Maragua Sub County Hospital
+MURANGA,MURANGA South,Kenol Hospital
 NAIROBI,Dagoretti,Kenyatta National Hospital
 NAIROBI,Dagoretti North,Nairobi Hospital
 NAIROBI,Dagoretti North,Nairobi Women Hurlingham
@@ -724,30 +707,27 @@ SAMBURU,Samburu central,Samburu county referral hospital
 SAMBURU,Samburu East,Wamba Health Center
 SAMBURU,Samburu East,Archers Post Sub county Hospital
 SAMBURU,Samburu North,"Baragoi Sub county hospital,"
-SIAYA COUNTY,Alego Usonga Sub County,Rwambwa Sub County Hospital
-SIAYA COUNTY,Bondo Sub County,Got Agulu Sub County Hospital
-SIAYA COUNTY,Gem Sub County,Sagam Hospital
-SIAYA COUNTY,Rarieda Sub County,Madiany Sub County Hospital
-SIAYA COUNTY,Ugunja Sub County,Ambira- Sub County Hospital
-SIAYA COUNTY,Alego Usonga sub County,Siaya ounty Referral Hospital
-SIAYA COUNTY,Bondo Sub County,Bondo Sub County Hospital
-SIAYA COUNTY,Bonds Sub County,Uyawi Sub County Hospital
-SIAYA COUNTY,Gem Sub County,Yala Sub County Hospital
-SIAYA COUNTY,Gem Sub County,Inuka hospital
-SIAYA COUNTY,Rarieda Sub County,Lwak Mission H/C
-SIAYA COUNTY,Ugenya Sub County,Ukwala Sub County Hospital
-SIAYA COUNTY,Ugunja Sub County,Sigomere Sub County Hospital
+SIAYA,Alego Usonga Sub County,Rwambwa Sub County Hospital
+SIAYA,Bondo Sub County,Got Agulu Sub County Hospital
+SIAYA,Gem Sub County,Sagam Hospital
+SIAYA,Rarieda Sub County,Madiany Sub County Hospital
+SIAYA,Ugunja Sub County,Ambira- Sub County Hospital
+SIAYA,Alego Usonga sub County,Siaya ounty Referral Hospital
+SIAYA,Bondo Sub County,Bondo Sub County Hospital
+SIAYA,Bonds Sub County,Uyawi Sub County Hospital
+SIAYA,Gem Sub County,Yala Sub County Hospital
+SIAYA,Gem Sub County,Inuka hospital
+SIAYA,Rarieda Sub County,Lwak Mission H/C
+SIAYA,Ugenya Sub County,Ukwala Sub County Hospital
+SIAYA,Ugunja Sub County,Sigomere Sub County Hospital
 TAITA TAVETA,Mwatate,Mwatate Sub County Hoapital
 TAITA TAVETA,Taita Wundanyi,Wundanyi Health Centre
 TAITA TAVETA,Taita/Wundanyi,Wesu Sub County Hospital
 TAITA TAVETA,Taveta,Taveta Sub County Hospital
 TAITA TAVETA,Voi,Moi County Refferral Hospotal
-"TANA RIVER
-COUNTY",Tana Delta sub County,Hola county Referral Hospital
-"TANA RIVER
-COUNTY",Tana Delta sub County,Ngao sub county hospital
-"TANA RIVER
-COUNTY",Tana North sub county,Bura Sub County hospital
+TANA RIVER,Tana Delta sub County,Hola county Referral Hospital
+TANA RIVER,Tana Delta sub County,Ngao sub county hospital
+TANA RIVER,Tana North sub county,Bura Sub County hospital
 THARAKA NITHI,Chuka,Chuka county referral hospital
 THARAKA NITHI,Igambang’ombe,Komarock Morden Hospital
 THARAKA NITHI,Igambang’ombe,Kajuki Hospital
