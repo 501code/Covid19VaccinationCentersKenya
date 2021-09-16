@@ -25,6 +25,7 @@ class LandingPage(View):
     @csrf_exempt
     def post(self, request):
         center = request.POST.get('center')
+        location = None
         if center:
             center = json.loads(center.replace(" lat", '"lat"').replace(" lng", '"lng"'))
             location = [center['lat'], center['lng']]
@@ -38,9 +39,10 @@ class LandingPage(View):
             if len(results) > 0:
                 place = results[0]
                 location = [float(place['geometry']['location']['lat']), float(place['geometry']['location']['lng'])]
-                from api.utils import find_closest_facilities
-                nearest_facilities = find_closest_facilities(location)
-                self.context.update({'facilities': nearest_facilities})
             else:
                 self.context.update({'error_message': 'Location not found!'})
+        if location:
+            from api.utils import find_closest_facilities
+            nearest_facilities = find_closest_facilities(location)
+            self.context.update({'facilities': nearest_facilities})
         return render(request, self.template_name, context=self.context)
