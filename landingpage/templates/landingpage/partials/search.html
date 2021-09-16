@@ -7,7 +7,7 @@
                 <form id="address-form" action="" method="post" autocomplete="off">
                     <!-- <label class="full-field"> -->
                     {% csrf_token %}
-                    <input id="ship-address" placeholder="Type your location here.." name="ship-address" required
+                    <input id="facility-address" placeholder="Type your location here.." name="facility-address" required
                         autocomplete="off" type="text" class="form-control w-40" />
                     <input type="hidden" id="center" name="center">
                     <!-- </label> -->
@@ -16,6 +16,11 @@
                 </form>
             </div>
         </div>
+        {% if error_message %}
+            <div class="alert alert-danger" role="alert">
+                {{error_message}}
+            </div>
+        {% endif %}
         <ul class="list-group list-group-flush news-items">
             {% for facility in facilities %}
             <li class="list-group-item">
@@ -34,7 +39,7 @@
     let address1Field;
 
     function initAutocomplete() {
-        address1Field = document.querySelector("#ship-address");
+        address1Field = document.querySelector("#facility-address");
         // Create the autocomplete object, restricting the search predictions to
         // addresses in KE
         autocomplete = new google.maps.places.Autocomplete(address1Field, {
