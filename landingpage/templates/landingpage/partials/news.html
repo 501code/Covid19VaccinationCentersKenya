@@ -6,14 +6,6 @@
             <h2>News</h2>
             <p>Latest vaccine news</p>
         </div>
-
-        <ul class="list-group list-group-flush news-items">
-            {% for article in news %}
-            <li class="list-group-item">
-                <h5>{{ article.title }} - <small class="text-right">{{ article.created }}</small></h5>
-                <a href="{{ article.link }}" target="_blank">{{ article.excerpt }}</a>
-            </li>
-            {% endfor %}
-        </ul>
+        <a class="twitter-timeline" href="https://twitter.com/VaccinateKE?ref_src=twsrc%5Etfw">Tweets by VaccinateKE</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     </div>
 </section>

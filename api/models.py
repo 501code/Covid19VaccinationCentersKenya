@@ -47,9 +47,3 @@ class VaccineCenter(TimeStampedModel):
 
     def __str__(self):
         return self.name
-
-
-class News(TimeStampedModel):
-    title = models.CharField(blank=False, null=False, max_length=510)
-    excerpt = models.CharField(blank=True, null=True, max_length=510)
-    link = models.CharField(blank=True, null=True, max_length=255)
