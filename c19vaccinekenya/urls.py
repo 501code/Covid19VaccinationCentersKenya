@@ -18,10 +18,12 @@ from django.conf.urls.static import static
 from django.contrib import admin
 from django.urls import path
 
-from landingpage.views import LandingPage
+from landingpage.views import LandingPage, Feedback
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', LandingPage.as_view(), name='home')] \
+    path('', LandingPage.as_view(), name='home'),
+    path('feedback/<int:pk>', Feedback.as_view(), name='feedback'),
+              ] \
               + static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
 

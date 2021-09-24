@@ -42,3 +42,18 @@ class LandingPage(View):
             nearest_facilities = find_closest_facilities(location)
             self.context.update({'facilities': nearest_facilities})
         return render(request, self.template_name, context=self.context)
+
+
+class Feedback(View):
+    def __init__(self):
+        self.template_name = 'landingpage/feedback.html'
+        self.context = {
+        }
+        super().__init__()
+
+    def get(self, request, **kwargs):
+        return render(request, self.template_name, context=self.context)
+
+    @csrf_exempt
+    def post(self, request):
+        return render(request, self.template_name, context=self.context)
