@@ -2,6 +2,7 @@ import json
 
 import requests
 from django.conf import settings
+from django.contrib import messages
 from django.http import HttpResponseRedirect
 from django.shortcuts import render
 from django.views import View
@@ -83,5 +84,8 @@ class Feedback(View):
         feedback.vaccine_available = True if vaccineAvailable == "yes" else False
         feedback.vaccines = ",".join(vaccines)
         feedback.save()
+
+        # add message
+        messages.add_message(request, messages.SUCCESS, 'Thank you for your feedback!')
 
         return HttpResponseRedirect("/")
