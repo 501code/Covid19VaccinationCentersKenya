@@ -6,6 +6,8 @@ from django.shortcuts import render
 from django.views import View
 from django.views.decorators.csrf import csrf_exempt
 
+from api.models import VaccineCenter
+
 
 class LandingPage(View):
     def __init__(self):
@@ -52,6 +54,8 @@ class Feedback(View):
         super().__init__()
 
     def get(self, request, **kwargs):
+        facility = VaccineCenter.objects.get(id=kwargs['pk'])
+        self.context.update({'facility': facility})
         return render(request, self.template_name, context=self.context)
 
     @csrf_exempt
