@@ -47,3 +47,12 @@ class VaccineCenter(TimeStampedModel):
 
     def __str__(self):
         return self.name
+
+
+class VaccineCenterFeedback(TimeStampedModel):
+    vaccine_center = models.ForeignKey(VaccineCenter, blank=False, null=False,
+                                       on_delete=models.CASCADE)
+    additional_info = models.TextField(blank=True, null=True)
+    waiting_time = models.IntegerField(default=1)
+    vaccine_available = models.BooleanField(default=True)
+    vaccines = models.CharField(max_length=255, null=True, blank=True)

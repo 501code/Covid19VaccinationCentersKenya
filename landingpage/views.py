@@ -2,11 +2,12 @@ import json
 
 import requests
 from django.conf import settings
+from django.http import HttpResponseRedirect
 from django.shortcuts import render
 from django.views import View
 from django.views.decorators.csrf import csrf_exempt
 
-from api.models import VaccineCenter
+from api.models import VaccineCenter, VaccineCenterFeedback
 
 
 class LandingPage(View):
@@ -58,6 +59,29 @@ class Feedback(View):
         self.context.update({'facility': facility})
         return render(request, self.template_name, context=self.context)
 
-    @csrf_exempt
-    def post(self, request):
-        return render(request, self.template_name, context=self.context)
+    def post(self, request, *args, **kwargs):
+        values = request.POST
+        facility_id = values.get('facility')
+        facility = VaccineCenter.objects.get(id=facility_id)
+        additionalInfo = values.get("additionalInfo", None)
+        waitingTime = values.get("waitingTime", 1)
+        vaccineAvailable = values.get("vaccineAvailable", 'yes')
+
+        # available vaccines
+        jnj = values.get("jnj", None)
+        moderna = values.get("moderna", None)
+        pfizer = values.get("pfizer", None)
+        astrazeneca = values.get("astrazeneca", None)
+        vaccines = [jnj, moderna, pfizer, astrazeneca]
+        vaccines = list(filter(lambda a: a!=None, vaccines)) # remove None
+
+        # save feedback
+        feedback = VaccineCenterFeedback()
+        feedback.vaccine_center = facility
+        feedback.additional_info = additionalInfo
+        feedback.waiting_time = waitingTime
+        feedback.vaccine_available = True if vaccineAvailable == "yes" else False
+        feedback.vaccines = ",".join(vaccines)
+        feedback.save()
+
+        return HttpResponseRedirect("/")
