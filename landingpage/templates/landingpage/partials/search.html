@@ -29,7 +29,7 @@
                 <a class="float:right" href="http://www.google.com/maps/place/{{facility.location}}" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2642/PNG/512/google_map_location_logo_icon_159350.png" width="25px"></i></a>
                 </h5>
                 {{ facility.sub_county }}
-                <a href="{% url 'feedback' facility.id %}"><span style="float:right; font-size: 0.8em">Share Feedback <i class="icofont-comment"></i> <sup>0</sup></span></a>
+                <a href="{% url 'feedback' facility.id %}"><span style="float:right; font-size: 0.8em">Share Feedback <i class="icofont-comment"></i></span></a>
             </li>
             {% endfor %}
         </ul>
