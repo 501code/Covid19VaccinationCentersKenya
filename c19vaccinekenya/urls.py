@@ -23,7 +23,5 @@ from landingpage.views import LandingPage, Feedback
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', LandingPage.as_view(), name='home'),
-    path('feedback/<int:pk>', Feedback.as_view(), name='feedback'),
-              ] \
-              + static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
+    path('feedback/<int:pk>', Feedback.as_view(), name='feedback')] + static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
 
